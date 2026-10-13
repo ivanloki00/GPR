@@ -1,0 +1,32 @@
+Grado,Campus,2021,2022,2023,2024,2025,2026
+Doble Grado Matemáticas e Informática,Vera,13.62,13.64,13.55,13.50,13.52,13.50
+PARS Ingeniería Aeronáutica (Aeroespacial),Vera,-,-,-,-,13.41,13.50
+Ingeniería Aeroespacial,Vera,13.25,13.35,13.00,13.17,13.22,13.27
+Ingeniería Biomédica,Vera,13.04,13.10,12.90,12.95,12.85,12.92
+Biotecnología,Vera,12.80,12.90,12.75,12.60,12.26,12.35
+Ingeniería Física,Vera,12.70,12.82,12.65,12.75,12.70,12.80
+Ciencia de Datos,Vera,12.10,12.25,12.30,12.15,12.20,12.18
+Ingeniería Informática,Vera,11.50,11.70,11.80,11.64,11.88,12.00
+Ingeniería de Tecnologías y Servicios de Telecomunicación,Vera,10.90,11.05,10.80,10.95,11.00,11.10
+Ingeniería en Diseño Industrial y Desarrollo de Productos,Vera,11.20,11.40,11.30,11.45,11.50,11.62
+Ingeniería en Tecnologías Industriales,Vera,11.58,11.60,10.88,12.07,10.80,11.00
+Ingeniería Mecánica,Vera,10.60,10.75,10.50,10.68,10.70,10.85
+Ingeniería Electrónica Industrial y Automática,Vera,10.50,10.65,10.45,10.55,10.60,10.72
+Ingeniería Eléctrica,Vera,9.80,9.95,9.75,9.88,9.90,10.05
+Ingeniería Química,Vera,10.10,10.30,10.15,10.25,10.30,10.45
+Ingeniería de Organización Industrial,Vera,11.10,11.25,11.00,11.20,11.15,11.30
+Fundamentos de la Arquitectura,Vera,9.50,9.70,9.60,9.80,9.75,9.90
+Ingeniería Civil,Vera,8.90,9.10,9.00,9.20,9.15,9.30
+Ingeniería Agroalimentaria y del Medio Rural,Vera,8.50,8.65,8.40,8.55,8.60,8.75
+Bellas Artes,Vera,9.60,9.80,9.70,9.90,9.85,10.00
+Administración y Dirección de Empresas (ADE),Vera,10.40,10.60,10.50,10.70,10.65,10.80
+Doble Grado ADE + Ingeniería Informática,Vera,12.20,12.40,12.35,12.50,12.45,12.60
+Comunicación Audiovisual,Gandia,9.30,9.50,9.40,9.60,9.55,9.70
+Turismo,Gandia,7.50,7.65,7.40,7.55,7.50,7.60
+Ciencias Ambientales,Gandia,7.80,8.00,7.90,8.10,8.05,8.20
+Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,Gandia,8.20,8.40,8.30,8.50,8.45,8.60
+Tecnologías Interactivas,Gandia,9.00,9.20,9.10,9.30,9.25,9.40
+Ingeniería Informática,Alcoy,9.50,9.70,9.65,9.85,9.80,9.95
+Ingeniería Mecánica,Alcoy,7.90,8.10,8.00,8.20,8.15,8.30
+Ingeniería en Diseño Industrial y Desarrollo de Productos,Alcoy,8.80,9.00,8.90,9.10,9.05,9.20
+Administración y Dirección de Empresas (ADE),Alcoy,8.10,8.30,8.20,8.40,8.35,8.50

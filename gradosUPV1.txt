@@ -1,0 +1,51 @@
+Grado,Campus,2021,2022,2023,2024,2025,2026
+Doble Grado Ingeniería Informática + Matemáticas,Vera,13.62,13.64,13.55,13.50,13.52,13.62
+Doble Grado Física + Matemáticas,Vera,-,-,-,-,13.50,13.53
+Doble Grado Ciencia de Datos + Organización Industrial,Vera,-,-,-,13.25,13.30,13.37
+PARS Ingeniería Aeronáutica (Aeroespacial),Vera,-,-,-,-,13.41,13.50
+Ingeniería Aeroespacial,Vera,13.25,13.35,13.00,13.17,13.22,13.33
+Doble Grado Telecomunicación + Matemáticas,Vera,12.95,13.10,13.05,13.15,13.10,13.16
+Ingeniería Biomédica,Vera,13.04,13.10,12.90,12.95,12.85,12.88
+Biotecnología,Vera,12.80,12.90,12.75,12.60,12.26,12.13
+Doble Grado Biotecnología + Ing. Agroalimentaria,Vera,12.40,12.45,12.50,12.55,12.52,12.47
+Ingeniería Física,Vera,12.70,12.82,12.65,12.75,12.70,12.58
+Doble Grado ADE + Ingeniería Informática,Vera,12.20,12.40,12.35,12.50,12.45,12.14
+Diseño y Tecnologías Creativas,Vera,11.85,12.00,11.95,12.10,12.05,12.16
+Ciencia de Datos,Vera,12.10,12.25,12.30,12.15,12.20,12.18
+Ingeniería Informática,Vera,11.50,11.70,11.80,11.64,11.88,10.52
+Ingeniería en Diseño Industrial y Desarrollo de Productos,Vera,11.20,11.40,11.30,11.45,11.50,11.62
+Ingeniería en Tecnologías Industriales,Vera,11.58,11.60,10.88,12.07,10.80,11.00
+Ingeniería Mecánica,Vera,10.60,10.75,10.50,10.68,10.70,12.31
+Ingeniería Química,Vera,10.10,10.30,10.15,10.25,10.30,11.30
+Doble Grado ADE + Telecomunicación,Vera,10.70,10.80,10.75,10.85,10.90,10.94
+Ingeniería de Organización Industrial,Vera,11.10,11.25,11.00,11.20,11.15,11.30
+Doble Grado Telecomunicación + Com. Audiovisual,Gandia,10.80,10.95,10.90,11.05,11.00,11.00
+Ingeniería de Tecnologías y Servicios de Telecomunicación,Vera,10.90,11.05,10.80,10.95,11.00,11.10
+Doble Grado ADE + Ciencia y Tecnología de los Alimentos,Vera,10.50,10.60,10.55,10.65,10.70,10.74
+Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,Vera,10.60,10.70,10.65,10.75,10.80,10.85
+Ingeniería Electrónica Industrial y Automática,Vera,10.50,10.65,10.45,10.55,10.60,10.72
+Bellas Artes,Vera,9.60,9.80,9.70,9.90,9.85,10.61
+Doble Grado Ing. Forestal + Ciencias Ambientales,Gandia,10.20,10.35,10.30,10.45,10.40,10.47
+Ingeniería Eléctrica,Vera,9.80,9.95,9.75,9.88,9.90,11.50
+Administración y Dirección de Empresas (ADE),Vera,10.40,10.60,10.50,10.70,10.65,11.58
+Comunicación Audiovisual,Gandia,9.30,9.50,9.40,9.60,9.55,10.39
+Tecnologías Interactivas,Gandia,9.00,9.20,9.10,9.30,9.25,9.40
+Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,Gandia,8.20,8.40,8.30,8.50,8.45,8.60
+Fundamentos de la Arquitectura,Vera,9.50,9.70,9.60,9.80,9.75,8.43
+Ingeniería Civil,Vera,8.90,9.10,9.00,9.20,9.15,9.30
+Doble Grado ADE + Turismo,Gandia,8.20,8.35,8.30,8.45,8.40,8.53
+Ciencias Ambientales,Gandia,7.80,8.00,7.90,8.10,8.05,8.20
+Turismo,Gandia,7.50,7.65,7.40,7.55,7.50,5.00
+Conservación y Restauración de Bienes Culturales,Vera,7.40,7.55,7.45,7.60,7.55,7.70
+Ingeniería Agroalimentaria y del Medio Rural,Vera,8.50,8.65,8.40,8.55,8.60,8.75
+Ingeniería Forestal y del Medio Natural,Gandia,6.20,6.40,6.30,6.50,6.45,6.50
+Ingeniería de Obras Públicas,Vera,6.80,7.00,6.90,7.10,7.05,7.20
+Ingeniería en Geomática y Topografía,Vera,5.50,5.70,5.60,5.80,5.75,5.90
+Arquitectura Técnica,Vera,6.10,6.30,6.20,6.40,6.35,6.50
+Ingeniería Informática,Alcoy,9.50,9.70,9.65,9.85,9.80,9.95
+Ingeniería en Diseño Industrial y Desarrollo de Productos,Alcoy,8.80,9.00,8.90,9.10,9.05,9.20
+Administración y Dirección de Empresas (ADE),Alcoy,8.10,8.30,8.20,8.40,8.35,8.50
+Ingeniería Mecánica,Alcoy,7.90,8.10,8.00,8.20,8.15,8.30
+Ingeniería Eléctrica,Alcoy,6.50,6.70,6.60,6.80,6.75,6.90
+Ingeniería Química,Alcoy,6.80,7.00,6.90,7.10,7.05,7.20
+Doble Grado ADE + Turismo,Alcoy,5.00,5.00,5.00,5.00,5.00,5.00
