@@ -21,6 +21,19 @@ Estudiar la posible asociación entre las notas de corte de grados de la UPV y l
 3. Abrir `notebooks/analisis_unificacion_upv_uv.ipynb` y ejecutar todas sus celdas.
 4. Comprobar el resultado en `data/processed/grados_upv_uv_unificado.csv`.
 
+El notebook también genera:
+
+- `data/processed/resumen_notas_grado_anio.csv`: número de notas disponibles, media,
+  mediana, desviación estándar muestral e intervalo intercuartílico por universidad,
+  campus, grado y año.
+- `data/processed/cobertura_notas_anio.csv`: observaciones esperadas, disponibles,
+  ausentes y con valor cero, además del porcentaje de cobertura por universidad,
+  campus y año.
+
+La unidad de observación del resumen es una nota de corte de un grado en un campus,
+universidad y año. Los valores ausentes se mantienen como ausentes y no se
+recodifican como cero.
+
 ## Datos y procedencia
 
 - Notas de corte UPV y UV de 2022 a 2026: CSV en `data/raw/`.

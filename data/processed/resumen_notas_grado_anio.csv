@@ -1,0 +1,546 @@
+﻿Universidad,Campus,Grado,Anio,n_disponibles,media,mediana,desviacion_estandar,q1,q3,iqr
+UPV,Alcoy,Administración y Dirección de Empresas (ADE),2022,1.0000,8.3000,8.3000,,8.3000,8.3000,0.0000
+UPV,Alcoy,Administración y Dirección de Empresas (ADE),2023,1.0000,8.2000,8.2000,,8.2000,8.2000,0.0000
+UPV,Alcoy,Administración y Dirección de Empresas (ADE),2024,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UPV,Alcoy,Administración y Dirección de Empresas (ADE),2025,1.0000,8.3500,8.3500,,8.3500,8.3500,0.0000
+UPV,Alcoy,Administración y Dirección de Empresas (ADE),2026,1.0000,8.5000,8.5000,,8.5000,8.5000,0.0000
+UPV,Alcoy,Doble Grado ADE + Turismo,2022,1.0000,5.0000,5.0000,,5.0000,5.0000,0.0000
+UPV,Alcoy,Doble Grado ADE + Turismo,2023,1.0000,5.0000,5.0000,,5.0000,5.0000,0.0000
+UPV,Alcoy,Doble Grado ADE + Turismo,2024,1.0000,5.0000,5.0000,,5.0000,5.0000,0.0000
+UPV,Alcoy,Doble Grado ADE + Turismo,2025,1.0000,5.0000,5.0000,,5.0000,5.0000,0.0000
+UPV,Alcoy,Doble Grado ADE + Turismo,2026,1.0000,5.0000,5.0000,,5.0000,5.0000,0.0000
+UPV,Alcoy,Ingeniería Eléctrica,2022,1.0000,6.7000,6.7000,,6.7000,6.7000,0.0000
+UPV,Alcoy,Ingeniería Eléctrica,2023,1.0000,6.6000,6.6000,,6.6000,6.6000,0.0000
+UPV,Alcoy,Ingeniería Eléctrica,2024,1.0000,6.8000,6.8000,,6.8000,6.8000,0.0000
+UPV,Alcoy,Ingeniería Eléctrica,2025,1.0000,6.7500,6.7500,,6.7500,6.7500,0.0000
+UPV,Alcoy,Ingeniería Eléctrica,2026,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UPV,Alcoy,Ingeniería Informática,2022,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UPV,Alcoy,Ingeniería Informática,2023,1.0000,9.6500,9.6500,,9.6500,9.6500,0.0000
+UPV,Alcoy,Ingeniería Informática,2024,1.0000,9.8500,9.8500,,9.8500,9.8500,0.0000
+UPV,Alcoy,Ingeniería Informática,2025,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UPV,Alcoy,Ingeniería Informática,2026,1.0000,9.9500,9.9500,,9.9500,9.9500,0.0000
+UPV,Alcoy,Ingeniería Mecánica,2022,1.0000,8.1000,8.1000,,8.1000,8.1000,0.0000
+UPV,Alcoy,Ingeniería Mecánica,2023,1.0000,8.0000,8.0000,,8.0000,8.0000,0.0000
+UPV,Alcoy,Ingeniería Mecánica,2024,1.0000,8.2000,8.2000,,8.2000,8.2000,0.0000
+UPV,Alcoy,Ingeniería Mecánica,2025,1.0000,8.1500,8.1500,,8.1500,8.1500,0.0000
+UPV,Alcoy,Ingeniería Mecánica,2026,1.0000,8.3000,8.3000,,8.3000,8.3000,0.0000
+UPV,Alcoy,Ingeniería Química,2022,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UPV,Alcoy,Ingeniería Química,2023,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UPV,Alcoy,Ingeniería Química,2024,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UPV,Alcoy,Ingeniería Química,2025,1.0000,7.0500,7.0500,,7.0500,7.0500,0.0000
+UPV,Alcoy,Ingeniería Química,2026,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UPV,Alcoy,Ingeniería en Diseño Industrial y Desarrollo de Productos,2022,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UPV,Alcoy,Ingeniería en Diseño Industrial y Desarrollo de Productos,2023,1.0000,8.9000,8.9000,,8.9000,8.9000,0.0000
+UPV,Alcoy,Ingeniería en Diseño Industrial y Desarrollo de Productos,2024,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UPV,Alcoy,Ingeniería en Diseño Industrial y Desarrollo de Productos,2025,1.0000,9.0500,9.0500,,9.0500,9.0500,0.0000
+UPV,Alcoy,Ingeniería en Diseño Industrial y Desarrollo de Productos,2026,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UPV,Gandia,Ciencias Ambientales,2022,1.0000,8.0000,8.0000,,8.0000,8.0000,0.0000
+UPV,Gandia,Ciencias Ambientales,2023,1.0000,7.9000,7.9000,,7.9000,7.9000,0.0000
+UPV,Gandia,Ciencias Ambientales,2024,1.0000,8.1000,8.1000,,8.1000,8.1000,0.0000
+UPV,Gandia,Ciencias Ambientales,2025,1.0000,8.0500,8.0500,,8.0500,8.0500,0.0000
+UPV,Gandia,Ciencias Ambientales,2026,1.0000,8.2000,8.2000,,8.2000,8.2000,0.0000
+UPV,Gandia,Comunicación Audiovisual,2022,1.0000,9.5000,9.5000,,9.5000,9.5000,0.0000
+UPV,Gandia,Comunicación Audiovisual,2023,1.0000,9.4000,9.4000,,9.4000,9.4000,0.0000
+UPV,Gandia,Comunicación Audiovisual,2024,1.0000,9.6000,9.6000,,9.6000,9.6000,0.0000
+UPV,Gandia,Comunicación Audiovisual,2025,1.0000,9.5500,9.5500,,9.5500,9.5500,0.0000
+UPV,Gandia,Comunicación Audiovisual,2026,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UPV,Gandia,Doble Grado ADE + Turismo,2022,1.0000,8.3500,8.3500,,8.3500,8.3500,0.0000
+UPV,Gandia,Doble Grado ADE + Turismo,2023,1.0000,8.3000,8.3000,,8.3000,8.3000,0.0000
+UPV,Gandia,Doble Grado ADE + Turismo,2024,1.0000,8.4500,8.4500,,8.4500,8.4500,0.0000
+UPV,Gandia,Doble Grado ADE + Turismo,2025,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UPV,Gandia,Doble Grado ADE + Turismo,2026,1.0000,8.5300,8.5300,,8.5300,8.5300,0.0000
+UPV,Gandia,Doble Grado Ing. Forestal + Ciencias Ambientales,2022,1.0000,10.3500,10.3500,,10.3500,10.3500,0.0000
+UPV,Gandia,Doble Grado Ing. Forestal + Ciencias Ambientales,2023,1.0000,10.3000,10.3000,,10.3000,10.3000,0.0000
+UPV,Gandia,Doble Grado Ing. Forestal + Ciencias Ambientales,2024,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UPV,Gandia,Doble Grado Ing. Forestal + Ciencias Ambientales,2025,1.0000,10.4000,10.4000,,10.4000,10.4000,0.0000
+UPV,Gandia,Doble Grado Ing. Forestal + Ciencias Ambientales,2026,1.0000,10.4700,10.4700,,10.4700,10.4700,0.0000
+UPV,Gandia,Doble Grado Telecomunicación + Com. Audiovisual,2022,1.0000,10.9500,10.9500,,10.9500,10.9500,0.0000
+UPV,Gandia,Doble Grado Telecomunicación + Com. Audiovisual,2023,1.0000,10.9000,10.9000,,10.9000,10.9000,0.0000
+UPV,Gandia,Doble Grado Telecomunicación + Com. Audiovisual,2024,1.0000,11.0500,11.0500,,11.0500,11.0500,0.0000
+UPV,Gandia,Doble Grado Telecomunicación + Com. Audiovisual,2025,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UPV,Gandia,Doble Grado Telecomunicación + Com. Audiovisual,2026,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UPV,Gandia,Ingeniería Forestal y del Medio Natural,2022,1.0000,6.4000,6.4000,,6.4000,6.4000,0.0000
+UPV,Gandia,Ingeniería Forestal y del Medio Natural,2023,1.0000,6.3000,6.3000,,6.3000,6.3000,0.0000
+UPV,Gandia,Ingeniería Forestal y del Medio Natural,2024,1.0000,6.5000,6.5000,,6.5000,6.5000,0.0000
+UPV,Gandia,Ingeniería Forestal y del Medio Natural,2025,1.0000,6.4500,6.4500,,6.4500,6.4500,0.0000
+UPV,Gandia,Ingeniería Forestal y del Medio Natural,2026,1.0000,6.5000,6.5000,,6.5000,6.5000,0.0000
+UPV,Gandia,Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,2022,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UPV,Gandia,Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,2023,1.0000,8.3000,8.3000,,8.3000,8.3000,0.0000
+UPV,Gandia,Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,2024,1.0000,8.5000,8.5000,,8.5000,8.5000,0.0000
+UPV,Gandia,Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,2025,1.0000,8.4500,8.4500,,8.4500,8.4500,0.0000
+UPV,Gandia,Ingeniería de Sistemas de Telecomunicación Sonido e Imagen,2026,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UPV,Gandia,Tecnologías Interactivas,2022,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UPV,Gandia,Tecnologías Interactivas,2023,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UPV,Gandia,Tecnologías Interactivas,2024,1.0000,9.3000,9.3000,,9.3000,9.3000,0.0000
+UPV,Gandia,Tecnologías Interactivas,2025,1.0000,9.2500,9.2500,,9.2500,9.2500,0.0000
+UPV,Gandia,Tecnologías Interactivas,2026,1.0000,9.4000,9.4000,,9.4000,9.4000,0.0000
+UPV,Gandia,Turismo,2022,1.0000,7.6500,7.6500,,7.6500,7.6500,0.0000
+UPV,Gandia,Turismo,2023,1.0000,7.4000,7.4000,,7.4000,7.4000,0.0000
+UPV,Gandia,Turismo,2024,1.0000,7.5500,7.5500,,7.5500,7.5500,0.0000
+UPV,Gandia,Turismo,2025,1.0000,7.5000,7.5000,,7.5000,7.5000,0.0000
+UPV,Gandia,Turismo,2026,1.0000,7.6000,7.6000,,7.6000,7.6000,0.0000
+UPV,Vera,Administración y Dirección de Empresas (ADE),2022,1.0000,10.6000,10.6000,,10.6000,10.6000,0.0000
+UPV,Vera,Administración y Dirección de Empresas (ADE),2023,1.0000,10.5000,10.5000,,10.5000,10.5000,0.0000
+UPV,Vera,Administración y Dirección de Empresas (ADE),2024,1.0000,10.7000,10.7000,,10.7000,10.7000,0.0000
+UPV,Vera,Administración y Dirección de Empresas (ADE),2025,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UPV,Vera,Administración y Dirección de Empresas (ADE),2026,1.0000,10.8000,10.8000,,10.8000,10.8000,0.0000
+UPV,Vera,Arquitectura Técnica,2022,1.0000,6.3000,6.3000,,6.3000,6.3000,0.0000
+UPV,Vera,Arquitectura Técnica,2023,1.0000,6.2000,6.2000,,6.2000,6.2000,0.0000
+UPV,Vera,Arquitectura Técnica,2024,1.0000,6.4000,6.4000,,6.4000,6.4000,0.0000
+UPV,Vera,Arquitectura Técnica,2025,1.0000,6.3500,6.3500,,6.3500,6.3500,0.0000
+UPV,Vera,Arquitectura Técnica,2026,1.0000,6.5000,6.5000,,6.5000,6.5000,0.0000
+UPV,Vera,Bellas Artes,2022,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UPV,Vera,Bellas Artes,2023,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UPV,Vera,Bellas Artes,2024,1.0000,9.9000,9.9000,,9.9000,9.9000,0.0000
+UPV,Vera,Bellas Artes,2025,1.0000,9.8500,9.8500,,9.8500,9.8500,0.0000
+UPV,Vera,Bellas Artes,2026,1.0000,10.0000,10.0000,,10.0000,10.0000,0.0000
+UPV,Vera,Biotecnología,2022,1.0000,12.9000,12.9000,,12.9000,12.9000,0.0000
+UPV,Vera,Biotecnología,2023,1.0000,12.7500,12.7500,,12.7500,12.7500,0.0000
+UPV,Vera,Biotecnología,2024,1.0000,12.6000,12.6000,,12.6000,12.6000,0.0000
+UPV,Vera,Biotecnología,2025,1.0000,12.2600,12.2600,,12.2600,12.2600,0.0000
+UPV,Vera,Biotecnología,2026,1.0000,12.3500,12.3500,,12.3500,12.3500,0.0000
+UPV,Vera,Ciencia de Datos,2022,1.0000,12.2500,12.2500,,12.2500,12.2500,0.0000
+UPV,Vera,Ciencia de Datos,2023,1.0000,12.3000,12.3000,,12.3000,12.3000,0.0000
+UPV,Vera,Ciencia de Datos,2024,1.0000,12.1500,12.1500,,12.1500,12.1500,0.0000
+UPV,Vera,Ciencia de Datos,2025,1.0000,12.2000,12.2000,,12.2000,12.2000,0.0000
+UPV,Vera,Ciencia de Datos,2026,1.0000,12.1800,12.1800,,12.1800,12.1800,0.0000
+UPV,Vera,Conservación y Restauración de Bienes Culturales,2022,1.0000,7.5500,7.5500,,7.5500,7.5500,0.0000
+UPV,Vera,Conservación y Restauración de Bienes Culturales,2023,1.0000,7.4500,7.4500,,7.4500,7.4500,0.0000
+UPV,Vera,Conservación y Restauración de Bienes Culturales,2024,1.0000,7.6000,7.6000,,7.6000,7.6000,0.0000
+UPV,Vera,Conservación y Restauración de Bienes Culturales,2025,1.0000,7.5500,7.5500,,7.5500,7.5500,0.0000
+UPV,Vera,Conservación y Restauración de Bienes Culturales,2026,1.0000,7.7000,7.7000,,7.7000,7.7000,0.0000
+UPV,Vera,Diseño y Tecnologías Creativas,2022,1.0000,12.0000,12.0000,,12.0000,12.0000,0.0000
+UPV,Vera,Diseño y Tecnologías Creativas,2023,1.0000,11.9500,11.9500,,11.9500,11.9500,0.0000
+UPV,Vera,Diseño y Tecnologías Creativas,2024,1.0000,12.1000,12.1000,,12.1000,12.1000,0.0000
+UPV,Vera,Diseño y Tecnologías Creativas,2025,1.0000,12.0500,12.0500,,12.0500,12.0500,0.0000
+UPV,Vera,Diseño y Tecnologías Creativas,2026,1.0000,12.1600,12.1600,,12.1600,12.1600,0.0000
+UPV,Vera,Doble Grado ADE + Ciencia y Tecnología de los Alimentos,2022,1.0000,10.6000,10.6000,,10.6000,10.6000,0.0000
+UPV,Vera,Doble Grado ADE + Ciencia y Tecnología de los Alimentos,2023,1.0000,10.5500,10.5500,,10.5500,10.5500,0.0000
+UPV,Vera,Doble Grado ADE + Ciencia y Tecnología de los Alimentos,2024,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UPV,Vera,Doble Grado ADE + Ciencia y Tecnología de los Alimentos,2025,1.0000,10.7000,10.7000,,10.7000,10.7000,0.0000
+UPV,Vera,Doble Grado ADE + Ciencia y Tecnología de los Alimentos,2026,1.0000,10.7400,10.7400,,10.7400,10.7400,0.0000
+UPV,Vera,Doble Grado ADE + Ingeniería Informática,2022,1.0000,12.4000,12.4000,,12.4000,12.4000,0.0000
+UPV,Vera,Doble Grado ADE + Ingeniería Informática,2023,1.0000,12.3500,12.3500,,12.3500,12.3500,0.0000
+UPV,Vera,Doble Grado ADE + Ingeniería Informática,2024,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UPV,Vera,Doble Grado ADE + Ingeniería Informática,2025,1.0000,12.4500,12.4500,,12.4500,12.4500,0.0000
+UPV,Vera,Doble Grado ADE + Ingeniería Informática,2026,1.0000,12.6000,12.6000,,12.6000,12.6000,0.0000
+UPV,Vera,Doble Grado ADE + Telecomunicación,2022,1.0000,10.8000,10.8000,,10.8000,10.8000,0.0000
+UPV,Vera,Doble Grado ADE + Telecomunicación,2023,1.0000,10.7500,10.7500,,10.7500,10.7500,0.0000
+UPV,Vera,Doble Grado ADE + Telecomunicación,2024,1.0000,10.8500,10.8500,,10.8500,10.8500,0.0000
+UPV,Vera,Doble Grado ADE + Telecomunicación,2025,1.0000,10.9000,10.9000,,10.9000,10.9000,0.0000
+UPV,Vera,Doble Grado ADE + Telecomunicación,2026,1.0000,10.9400,10.9400,,10.9400,10.9400,0.0000
+UPV,Vera,Doble Grado Biotecnología + Ing. Agroalimentaria,2022,1.0000,12.4500,12.4500,,12.4500,12.4500,0.0000
+UPV,Vera,Doble Grado Biotecnología + Ing. Agroalimentaria,2023,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UPV,Vera,Doble Grado Biotecnología + Ing. Agroalimentaria,2024,1.0000,12.5500,12.5500,,12.5500,12.5500,0.0000
+UPV,Vera,Doble Grado Biotecnología + Ing. Agroalimentaria,2025,1.0000,12.5200,12.5200,,12.5200,12.5200,0.0000
+UPV,Vera,Doble Grado Biotecnología + Ing. Agroalimentaria,2026,1.0000,12.4700,12.4700,,12.4700,12.4700,0.0000
+UPV,Vera,Doble Grado Ciencia de Datos + Organización Industrial,2022,0.0000,,,,,,
+UPV,Vera,Doble Grado Ciencia de Datos + Organización Industrial,2023,0.0000,,,,,,
+UPV,Vera,Doble Grado Ciencia de Datos + Organización Industrial,2024,1.0000,13.2500,13.2500,,13.2500,13.2500,0.0000
+UPV,Vera,Doble Grado Ciencia de Datos + Organización Industrial,2025,1.0000,13.3000,13.3000,,13.3000,13.3000,0.0000
+UPV,Vera,Doble Grado Ciencia de Datos + Organización Industrial,2026,1.0000,13.3700,13.3700,,13.3700,13.3700,0.0000
+UPV,Vera,Doble Grado Física + Matemáticas,2022,0.0000,,,,,,
+UPV,Vera,Doble Grado Física + Matemáticas,2023,0.0000,,,,,,
+UPV,Vera,Doble Grado Física + Matemáticas,2024,0.0000,,,,,,
+UPV,Vera,Doble Grado Física + Matemáticas,2025,1.0000,13.5000,13.5000,,13.5000,13.5000,0.0000
+UPV,Vera,Doble Grado Física + Matemáticas,2026,1.0000,13.5300,13.5300,,13.5300,13.5300,0.0000
+UPV,Vera,Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,2022,1.0000,10.7000,10.7000,,10.7000,10.7000,0.0000
+UPV,Vera,Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,2023,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UPV,Vera,Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,2024,1.0000,10.7500,10.7500,,10.7500,10.7500,0.0000
+UPV,Vera,Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,2025,1.0000,10.8000,10.8000,,10.8000,10.8000,0.0000
+UPV,Vera,Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos,2026,1.0000,10.8500,10.8500,,10.8500,10.8500,0.0000
+UPV,Vera,Doble Grado Ingeniería Informática + Matemáticas,2022,1.0000,13.6400,13.6400,,13.6400,13.6400,0.0000
+UPV,Vera,Doble Grado Ingeniería Informática + Matemáticas,2023,1.0000,13.5500,13.5500,,13.5500,13.5500,0.0000
+UPV,Vera,Doble Grado Ingeniería Informática + Matemáticas,2024,1.0000,13.5000,13.5000,,13.5000,13.5000,0.0000
+UPV,Vera,Doble Grado Ingeniería Informática + Matemáticas,2025,1.0000,13.5200,13.5200,,13.5200,13.5200,0.0000
+UPV,Vera,Doble Grado Ingeniería Informática + Matemáticas,2026,1.0000,13.6200,13.6200,,13.6200,13.6200,0.0000
+UPV,Vera,Doble Grado Matemáticas e Informática,2022,1.0000,13.6400,13.6400,,13.6400,13.6400,0.0000
+UPV,Vera,Doble Grado Matemáticas e Informática,2023,1.0000,13.5500,13.5500,,13.5500,13.5500,0.0000
+UPV,Vera,Doble Grado Matemáticas e Informática,2024,1.0000,13.5000,13.5000,,13.5000,13.5000,0.0000
+UPV,Vera,Doble Grado Matemáticas e Informática,2025,1.0000,13.5200,13.5200,,13.5200,13.5200,0.0000
+UPV,Vera,Doble Grado Matemáticas e Informática,2026,1.0000,13.5000,13.5000,,13.5000,13.5000,0.0000
+UPV,Vera,Doble Grado Telecomunicación + Matemáticas,2022,1.0000,13.1000,13.1000,,13.1000,13.1000,0.0000
+UPV,Vera,Doble Grado Telecomunicación + Matemáticas,2023,1.0000,13.0500,13.0500,,13.0500,13.0500,0.0000
+UPV,Vera,Doble Grado Telecomunicación + Matemáticas,2024,1.0000,13.1500,13.1500,,13.1500,13.1500,0.0000
+UPV,Vera,Doble Grado Telecomunicación + Matemáticas,2025,1.0000,13.1000,13.1000,,13.1000,13.1000,0.0000
+UPV,Vera,Doble Grado Telecomunicación + Matemáticas,2026,1.0000,13.1600,13.1600,,13.1600,13.1600,0.0000
+UPV,Vera,Fundamentos de la Arquitectura,2022,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UPV,Vera,Fundamentos de la Arquitectura,2023,1.0000,9.6000,9.6000,,9.6000,9.6000,0.0000
+UPV,Vera,Fundamentos de la Arquitectura,2024,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UPV,Vera,Fundamentos de la Arquitectura,2025,1.0000,9.7500,9.7500,,9.7500,9.7500,0.0000
+UPV,Vera,Fundamentos de la Arquitectura,2026,1.0000,9.9000,9.9000,,9.9000,9.9000,0.0000
+UPV,Vera,Ingeniería Aeroespacial,2022,1.0000,13.3500,13.3500,,13.3500,13.3500,0.0000
+UPV,Vera,Ingeniería Aeroespacial,2023,1.0000,13.0000,13.0000,,13.0000,13.0000,0.0000
+UPV,Vera,Ingeniería Aeroespacial,2024,1.0000,13.1700,13.1700,,13.1700,13.1700,0.0000
+UPV,Vera,Ingeniería Aeroespacial,2025,1.0000,13.2200,13.2200,,13.2200,13.2200,0.0000
+UPV,Vera,Ingeniería Aeroespacial,2026,1.0000,13.2700,13.2700,,13.2700,13.2700,0.0000
+UPV,Vera,Ingeniería Agroalimentaria y del Medio Rural,2022,1.0000,8.6500,8.6500,,8.6500,8.6500,0.0000
+UPV,Vera,Ingeniería Agroalimentaria y del Medio Rural,2023,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UPV,Vera,Ingeniería Agroalimentaria y del Medio Rural,2024,1.0000,8.5500,8.5500,,8.5500,8.5500,0.0000
+UPV,Vera,Ingeniería Agroalimentaria y del Medio Rural,2025,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UPV,Vera,Ingeniería Agroalimentaria y del Medio Rural,2026,1.0000,8.7500,8.7500,,8.7500,8.7500,0.0000
+UPV,Vera,Ingeniería Biomédica,2022,1.0000,13.1000,13.1000,,13.1000,13.1000,0.0000
+UPV,Vera,Ingeniería Biomédica,2023,1.0000,12.9000,12.9000,,12.9000,12.9000,0.0000
+UPV,Vera,Ingeniería Biomédica,2024,1.0000,12.9500,12.9500,,12.9500,12.9500,0.0000
+UPV,Vera,Ingeniería Biomédica,2025,1.0000,12.8500,12.8500,,12.8500,12.8500,0.0000
+UPV,Vera,Ingeniería Biomédica,2026,1.0000,12.9200,12.9200,,12.9200,12.9200,0.0000
+UPV,Vera,Ingeniería Civil,2022,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UPV,Vera,Ingeniería Civil,2023,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UPV,Vera,Ingeniería Civil,2024,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UPV,Vera,Ingeniería Civil,2025,1.0000,9.1500,9.1500,,9.1500,9.1500,0.0000
+UPV,Vera,Ingeniería Civil,2026,1.0000,9.3000,9.3000,,9.3000,9.3000,0.0000
+UPV,Vera,Ingeniería Electrónica Industrial y Automática,2022,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UPV,Vera,Ingeniería Electrónica Industrial y Automática,2023,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UPV,Vera,Ingeniería Electrónica Industrial y Automática,2024,1.0000,10.5500,10.5500,,10.5500,10.5500,0.0000
+UPV,Vera,Ingeniería Electrónica Industrial y Automática,2025,1.0000,10.6000,10.6000,,10.6000,10.6000,0.0000
+UPV,Vera,Ingeniería Electrónica Industrial y Automática,2026,1.0000,10.7200,10.7200,,10.7200,10.7200,0.0000
+UPV,Vera,Ingeniería Eléctrica,2022,1.0000,9.9500,9.9500,,9.9500,9.9500,0.0000
+UPV,Vera,Ingeniería Eléctrica,2023,1.0000,9.7500,9.7500,,9.7500,9.7500,0.0000
+UPV,Vera,Ingeniería Eléctrica,2024,1.0000,9.8800,9.8800,,9.8800,9.8800,0.0000
+UPV,Vera,Ingeniería Eléctrica,2025,1.0000,9.9000,9.9000,,9.9000,9.9000,0.0000
+UPV,Vera,Ingeniería Eléctrica,2026,1.0000,10.0500,10.0500,,10.0500,10.0500,0.0000
+UPV,Vera,Ingeniería Física,2022,1.0000,12.8200,12.8200,,12.8200,12.8200,0.0000
+UPV,Vera,Ingeniería Física,2023,1.0000,12.6500,12.6500,,12.6500,12.6500,0.0000
+UPV,Vera,Ingeniería Física,2024,1.0000,12.7500,12.7500,,12.7500,12.7500,0.0000
+UPV,Vera,Ingeniería Física,2025,1.0000,12.7000,12.7000,,12.7000,12.7000,0.0000
+UPV,Vera,Ingeniería Física,2026,1.0000,12.8000,12.8000,,12.8000,12.8000,0.0000
+UPV,Vera,Ingeniería Informática,2022,1.0000,11.7000,11.7000,,11.7000,11.7000,0.0000
+UPV,Vera,Ingeniería Informática,2023,1.0000,11.8000,11.8000,,11.8000,11.8000,0.0000
+UPV,Vera,Ingeniería Informática,2024,1.0000,11.6400,11.6400,,11.6400,11.6400,0.0000
+UPV,Vera,Ingeniería Informática,2025,1.0000,11.8800,11.8800,,11.8800,11.8800,0.0000
+UPV,Vera,Ingeniería Informática,2026,1.0000,12.0000,12.0000,,12.0000,12.0000,0.0000
+UPV,Vera,Ingeniería Mecánica,2022,1.0000,10.7500,10.7500,,10.7500,10.7500,0.0000
+UPV,Vera,Ingeniería Mecánica,2023,1.0000,10.5000,10.5000,,10.5000,10.5000,0.0000
+UPV,Vera,Ingeniería Mecánica,2024,1.0000,10.6800,10.6800,,10.6800,10.6800,0.0000
+UPV,Vera,Ingeniería Mecánica,2025,1.0000,10.7000,10.7000,,10.7000,10.7000,0.0000
+UPV,Vera,Ingeniería Mecánica,2026,1.0000,10.8500,10.8500,,10.8500,10.8500,0.0000
+UPV,Vera,Ingeniería Química,2022,1.0000,10.3000,10.3000,,10.3000,10.3000,0.0000
+UPV,Vera,Ingeniería Química,2023,1.0000,10.1500,10.1500,,10.1500,10.1500,0.0000
+UPV,Vera,Ingeniería Química,2024,1.0000,10.2500,10.2500,,10.2500,10.2500,0.0000
+UPV,Vera,Ingeniería Química,2025,1.0000,10.3000,10.3000,,10.3000,10.3000,0.0000
+UPV,Vera,Ingeniería Química,2026,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UPV,Vera,Ingeniería de Obras Públicas,2022,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UPV,Vera,Ingeniería de Obras Públicas,2023,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UPV,Vera,Ingeniería de Obras Públicas,2024,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UPV,Vera,Ingeniería de Obras Públicas,2025,1.0000,7.0500,7.0500,,7.0500,7.0500,0.0000
+UPV,Vera,Ingeniería de Obras Públicas,2026,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UPV,Vera,Ingeniería de Organización Industrial,2022,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UPV,Vera,Ingeniería de Organización Industrial,2023,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UPV,Vera,Ingeniería de Organización Industrial,2024,1.0000,11.2000,11.2000,,11.2000,11.2000,0.0000
+UPV,Vera,Ingeniería de Organización Industrial,2025,1.0000,11.1500,11.1500,,11.1500,11.1500,0.0000
+UPV,Vera,Ingeniería de Organización Industrial,2026,1.0000,11.3000,11.3000,,11.3000,11.3000,0.0000
+UPV,Vera,Ingeniería de Tecnologías y Servicios de Telecomunicación,2022,1.0000,11.0500,11.0500,,11.0500,11.0500,0.0000
+UPV,Vera,Ingeniería de Tecnologías y Servicios de Telecomunicación,2023,1.0000,10.8000,10.8000,,10.8000,10.8000,0.0000
+UPV,Vera,Ingeniería de Tecnologías y Servicios de Telecomunicación,2024,1.0000,10.9500,10.9500,,10.9500,10.9500,0.0000
+UPV,Vera,Ingeniería de Tecnologías y Servicios de Telecomunicación,2025,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UPV,Vera,Ingeniería de Tecnologías y Servicios de Telecomunicación,2026,1.0000,11.1000,11.1000,,11.1000,11.1000,0.0000
+UPV,Vera,Ingeniería en Diseño Industrial y Desarrollo de Productos,2022,1.0000,11.4000,11.4000,,11.4000,11.4000,0.0000
+UPV,Vera,Ingeniería en Diseño Industrial y Desarrollo de Productos,2023,1.0000,11.3000,11.3000,,11.3000,11.3000,0.0000
+UPV,Vera,Ingeniería en Diseño Industrial y Desarrollo de Productos,2024,1.0000,11.4500,11.4500,,11.4500,11.4500,0.0000
+UPV,Vera,Ingeniería en Diseño Industrial y Desarrollo de Productos,2025,1.0000,11.5000,11.5000,,11.5000,11.5000,0.0000
+UPV,Vera,Ingeniería en Diseño Industrial y Desarrollo de Productos,2026,1.0000,11.6200,11.6200,,11.6200,11.6200,0.0000
+UPV,Vera,Ingeniería en Geomática y Topografía,2022,1.0000,5.7000,5.7000,,5.7000,5.7000,0.0000
+UPV,Vera,Ingeniería en Geomática y Topografía,2023,1.0000,5.6000,5.6000,,5.6000,5.6000,0.0000
+UPV,Vera,Ingeniería en Geomática y Topografía,2024,1.0000,5.8000,5.8000,,5.8000,5.8000,0.0000
+UPV,Vera,Ingeniería en Geomática y Topografía,2025,1.0000,5.7500,5.7500,,5.7500,5.7500,0.0000
+UPV,Vera,Ingeniería en Geomática y Topografía,2026,1.0000,5.9000,5.9000,,5.9000,5.9000,0.0000
+UPV,Vera,Ingeniería en Tecnologías Industriales,2022,1.0000,11.6000,11.6000,,11.6000,11.6000,0.0000
+UPV,Vera,Ingeniería en Tecnologías Industriales,2023,1.0000,10.8800,10.8800,,10.8800,10.8800,0.0000
+UPV,Vera,Ingeniería en Tecnologías Industriales,2024,1.0000,12.0700,12.0700,,12.0700,12.0700,0.0000
+UPV,Vera,Ingeniería en Tecnologías Industriales,2025,1.0000,10.8000,10.8000,,10.8000,10.8000,0.0000
+UPV,Vera,Ingeniería en Tecnologías Industriales,2026,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UPV,Vera,PARS Ingeniería Aeronáutica (Aeroespacial),2022,0.0000,,,,,,
+UPV,Vera,PARS Ingeniería Aeronáutica (Aeroespacial),2023,0.0000,,,,,,
+UPV,Vera,PARS Ingeniería Aeronáutica (Aeroespacial),2024,0.0000,,,,,,
+UPV,Vera,PARS Ingeniería Aeronáutica (Aeroespacial),2025,1.0000,13.4100,13.4100,,13.4100,13.4100,0.0000
+UPV,Vera,PARS Ingeniería Aeronáutica (Aeroespacial),2026,1.0000,13.5000,13.5000,,13.5000,13.5000,0.0000
+UV,Blasco Ibáñez,Ciencias de la Actividad Física y del Deporte,2022,1.0000,11.1500,11.1500,,11.1500,11.1500,0.0000
+UV,Blasco Ibáñez,Ciencias de la Actividad Física y del Deporte,2023,1.0000,10.9500,10.9500,,10.9500,10.9500,0.0000
+UV,Blasco Ibáñez,Ciencias de la Actividad Física y del Deporte,2024,1.0000,11.0500,11.0500,,11.0500,11.0500,0.0000
+UV,Blasco Ibáñez,Ciencias de la Actividad Física y del Deporte,2025,1.0000,11.0000,11.0000,,11.0000,11.0000,0.0000
+UV,Blasco Ibáñez,Ciencias de la Actividad Física y del Deporte,2026,1.0000,11.1200,11.1200,,11.1200,11.1200,0.0000
+UV,Blasco Ibáñez,Comunicación Audiovisual,2022,1.0000,8.9000,8.9000,,8.9000,8.9000,0.0000
+UV,Blasco Ibáñez,Comunicación Audiovisual,2023,1.0000,8.8000,8.8000,,8.8000,8.8000,0.0000
+UV,Blasco Ibáñez,Comunicación Audiovisual,2024,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UV,Blasco Ibáñez,Comunicación Audiovisual,2025,1.0000,8.9500,8.9500,,8.9500,8.9500,0.0000
+UV,Blasco Ibáñez,Comunicación Audiovisual,2026,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UV,Blasco Ibáñez,Educación Social,2022,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UV,Blasco Ibáñez,Educación Social,2023,1.0000,8.3000,8.3000,,8.3000,8.3000,0.0000
+UV,Blasco Ibáñez,Educación Social,2024,1.0000,8.5000,8.5000,,8.5000,8.5000,0.0000
+UV,Blasco Ibáñez,Educación Social,2025,1.0000,8.4500,8.4500,,8.4500,8.4500,0.0000
+UV,Blasco Ibáñez,Educación Social,2026,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UV,Blasco Ibáñez,Enfermería,2022,1.0000,12.7500,12.7500,,12.7500,12.7500,0.0000
+UV,Blasco Ibáñez,Enfermería,2023,1.0000,12.6000,12.6000,,12.6000,12.6000,0.0000
+UV,Blasco Ibáñez,Enfermería,2024,1.0000,12.6800,12.6800,,12.6800,12.6800,0.0000
+UV,Blasco Ibáñez,Enfermería,2025,1.0000,12.6500,12.6500,,12.6500,12.6500,0.0000
+UV,Blasco Ibáñez,Enfermería,2026,1.0000,12.7200,12.7200,,12.7200,12.7200,0.0000
+UV,Blasco Ibáñez,Estudios Ingleses,2022,1.0000,8.0000,8.0000,,8.0000,8.0000,0.0000
+UV,Blasco Ibáñez,Estudios Ingleses,2023,1.0000,7.9000,7.9000,,7.9000,7.9000,0.0000
+UV,Blasco Ibáñez,Estudios Ingleses,2024,1.0000,8.1000,8.1000,,8.1000,8.1000,0.0000
+UV,Blasco Ibáñez,Estudios Ingleses,2025,1.0000,8.0500,8.0500,,8.0500,8.0500,0.0000
+UV,Blasco Ibáñez,Estudios Ingleses,2026,1.0000,8.2000,8.2000,,8.2000,8.2000,0.0000
+UV,Blasco Ibáñez,Filología Catalana,2022,1.0000,5.7000,5.7000,,5.7000,5.7000,0.0000
+UV,Blasco Ibáñez,Filología Catalana,2023,1.0000,5.6000,5.6000,,5.6000,5.6000,0.0000
+UV,Blasco Ibáñez,Filología Catalana,2024,1.0000,5.8000,5.8000,,5.8000,5.8000,0.0000
+UV,Blasco Ibáñez,Filología Catalana,2025,1.0000,5.7500,5.7500,,5.7500,5.7500,0.0000
+UV,Blasco Ibáñez,Filología Catalana,2026,1.0000,5.9000,5.9000,,5.9000,5.9000,0.0000
+UV,Blasco Ibáñez,Filología Hispánica,2022,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UV,Blasco Ibáñez,Filología Hispánica,2023,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UV,Blasco Ibáñez,Filología Hispánica,2024,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UV,Blasco Ibáñez,Filología Hispánica,2025,1.0000,7.1500,7.1500,,7.1500,7.1500,0.0000
+UV,Blasco Ibáñez,Filología Hispánica,2026,1.0000,7.3000,7.3000,,7.3000,7.3000,0.0000
+UV,Blasco Ibáñez,Filosofía,2022,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UV,Blasco Ibáñez,Filosofía,2023,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UV,Blasco Ibáñez,Filosofía,2024,1.0000,7.3000,7.3000,,7.3000,7.3000,0.0000
+UV,Blasco Ibáñez,Filosofía,2025,1.0000,7.2500,7.2500,,7.2500,7.2500,0.0000
+UV,Blasco Ibáñez,Filosofía,2026,1.0000,7.4000,7.4000,,7.4000,7.4000,0.0000
+UV,Blasco Ibáñez,Fisioterapia,2022,1.0000,12.2500,12.2500,,12.2500,12.2500,0.0000
+UV,Blasco Ibáñez,Fisioterapia,2023,1.0000,12.1000,12.1000,,12.1000,12.1000,0.0000
+UV,Blasco Ibáñez,Fisioterapia,2024,1.0000,12.2000,12.2000,,12.2000,12.2000,0.0000
+UV,Blasco Ibáñez,Fisioterapia,2025,1.0000,12.1500,12.1500,,12.1500,12.1500,0.0000
+UV,Blasco Ibáñez,Fisioterapia,2026,1.0000,12.2200,12.2200,,12.2200,12.2200,0.0000
+UV,Blasco Ibáñez,Geografía y Medio Ambiente,2022,1.0000,6.7000,6.7000,,6.7000,6.7000,0.0000
+UV,Blasco Ibáñez,Geografía y Medio Ambiente,2023,1.0000,6.6000,6.6000,,6.6000,6.6000,0.0000
+UV,Blasco Ibáñez,Geografía y Medio Ambiente,2024,1.0000,6.8000,6.8000,,6.8000,6.8000,0.0000
+UV,Blasco Ibáñez,Geografía y Medio Ambiente,2025,1.0000,6.7500,6.7500,,6.7500,6.7500,0.0000
+UV,Blasco Ibáñez,Geografía y Medio Ambiente,2026,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UV,Blasco Ibáñez,Historia,2022,1.0000,7.7000,7.7000,,7.7000,7.7000,0.0000
+UV,Blasco Ibáñez,Historia,2023,1.0000,7.6000,7.6000,,7.6000,7.6000,0.0000
+UV,Blasco Ibáñez,Historia,2024,1.0000,7.8000,7.8000,,7.8000,7.8000,0.0000
+UV,Blasco Ibáñez,Historia,2025,1.0000,7.7500,7.7500,,7.7500,7.7500,0.0000
+UV,Blasco Ibáñez,Historia,2026,1.0000,7.9000,7.9000,,7.9000,7.9000,0.0000
+UV,Blasco Ibáñez,Historia del Arte,2022,1.0000,7.3000,7.3000,,7.3000,7.3000,0.0000
+UV,Blasco Ibáñez,Historia del Arte,2023,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UV,Blasco Ibáñez,Historia del Arte,2024,1.0000,7.4000,7.4000,,7.4000,7.4000,0.0000
+UV,Blasco Ibáñez,Historia del Arte,2025,1.0000,7.3500,7.3500,,7.3500,7.3500,0.0000
+UV,Blasco Ibáñez,Historia del Arte,2026,1.0000,7.5000,7.5000,,7.5000,7.5000,0.0000
+UV,Blasco Ibáñez,Lenguas Modernas y sus Literaturas,2022,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UV,Blasco Ibáñez,Lenguas Modernas y sus Literaturas,2023,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UV,Blasco Ibáñez,Lenguas Modernas y sus Literaturas,2024,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UV,Blasco Ibáñez,Lenguas Modernas y sus Literaturas,2025,1.0000,7.0500,7.0500,,7.0500,7.0500,0.0000
+UV,Blasco Ibáñez,Lenguas Modernas y sus Literaturas,2026,1.0000,7.2000,7.2000,,7.2000,7.2000,0.0000
+UV,Blasco Ibáñez,Medicina,2022,1.0000,13.4700,13.4700,,13.4700,13.4700,0.0000
+UV,Blasco Ibáñez,Medicina,2023,1.0000,13.3500,13.3500,,13.3500,13.3500,0.0000
+UV,Blasco Ibáñez,Medicina,2024,1.0000,13.3800,13.3800,,13.3800,13.3800,0.0000
+UV,Blasco Ibáñez,Medicina,2025,1.0000,13.4000,13.4000,,13.4000,13.4000,0.0000
+UV,Blasco Ibáñez,Medicina,2026,1.0000,13.4200,13.4200,,13.4200,13.4200,0.0000
+UV,Blasco Ibáñez,Odontología,2022,1.0000,13.2000,13.2000,,13.2000,13.2000,0.0000
+UV,Blasco Ibáñez,Odontología,2023,1.0000,13.0500,13.0500,,13.0500,13.0500,0.0000
+UV,Blasco Ibáñez,Odontología,2024,1.0000,13.1000,13.1000,,13.1000,13.1000,0.0000
+UV,Blasco Ibáñez,Odontología,2025,1.0000,13.0800,13.0800,,13.0800,13.0800,0.0000
+UV,Blasco Ibáñez,Odontología,2026,1.0000,13.1200,13.1200,,13.1200,13.1200,0.0000
+UV,Blasco Ibáñez,Pedagogía,2022,1.0000,8.5000,8.5000,,8.5000,8.5000,0.0000
+UV,Blasco Ibáñez,Pedagogía,2023,1.0000,8.4000,8.4000,,8.4000,8.4000,0.0000
+UV,Blasco Ibáñez,Pedagogía,2024,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UV,Blasco Ibáñez,Pedagogía,2025,1.0000,8.5500,8.5500,,8.5500,8.5500,0.0000
+UV,Blasco Ibáñez,Pedagogía,2026,1.0000,8.7000,8.7000,,8.7000,8.7000,0.0000
+UV,Blasco Ibáñez,Periodismo,2022,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UV,Blasco Ibáñez,Periodismo,2023,1.0000,8.9000,8.9000,,8.9000,8.9000,0.0000
+UV,Blasco Ibáñez,Periodismo,2024,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UV,Blasco Ibáñez,Periodismo,2025,1.0000,9.0500,9.0500,,9.0500,9.0500,0.0000
+UV,Blasco Ibáñez,Periodismo,2026,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UV,Blasco Ibáñez,Podología,2022,1.0000,10.3500,10.3500,,10.3500,10.3500,0.0000
+UV,Blasco Ibáñez,Podología,2023,1.0000,10.1500,10.1500,,10.1500,10.1500,0.0000
+UV,Blasco Ibáñez,Podología,2024,1.0000,10.2500,10.2500,,10.2500,10.2500,0.0000
+UV,Blasco Ibáñez,Podología,2025,1.0000,10.2000,10.2000,,10.2000,10.2000,0.0000
+UV,Blasco Ibáñez,Podología,2026,1.0000,10.3200,10.3200,,10.3200,10.3200,0.0000
+UV,Blasco Ibáñez,Psicología,2022,1.0000,11.7500,11.7500,,11.7500,11.7500,0.0000
+UV,Blasco Ibáñez,Psicología,2023,1.0000,11.5500,11.5500,,11.5500,11.5500,0.0000
+UV,Blasco Ibáñez,Psicología,2024,1.0000,11.6500,11.6500,,11.6500,11.6500,0.0000
+UV,Blasco Ibáñez,Psicología,2025,1.0000,11.6000,11.6000,,11.6000,11.6000,0.0000
+UV,Blasco Ibáñez,Psicología,2026,1.0000,11.7000,11.7000,,11.7000,11.7000,0.0000
+UV,Blasco Ibáñez,Traducción y Mediación Interlingüística (Inglés),2022,1.0000,12.1500,12.1500,,12.1500,12.1500,0.0000
+UV,Blasco Ibáñez,Traducción y Mediación Interlingüística (Inglés),2023,1.0000,12.0000,12.0000,,12.0000,12.0000,0.0000
+UV,Blasco Ibáñez,Traducción y Mediación Interlingüística (Inglés),2024,1.0000,12.1000,12.1000,,12.1000,12.1000,0.0000
+UV,Blasco Ibáñez,Traducción y Mediación Interlingüística (Inglés),2025,1.0000,12.0500,12.0500,,12.0500,12.0500,0.0000
+UV,Blasco Ibáñez,Traducción y Mediación Interlingüística (Inglés),2026,1.0000,12.1500,12.1500,,12.1500,12.1500,0.0000
+UV,Burjassot-Paterna,Biología,2022,1.0000,11.3500,11.3500,,11.3500,11.3500,0.0000
+UV,Burjassot-Paterna,Biología,2023,1.0000,11.1500,11.1500,,11.1500,11.1500,0.0000
+UV,Burjassot-Paterna,Biología,2024,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UV,Burjassot-Paterna,Biología,2025,1.0000,11.2000,11.2000,,11.2000,11.2000,0.0000
+UV,Burjassot-Paterna,Biología,2026,1.0000,11.3200,11.3200,,11.3200,11.3200,0.0000
+UV,Burjassot-Paterna,Bioquímica y Ciencias Biomédicas,2022,1.0000,13.1800,13.1800,,13.1800,13.1800,0.0000
+UV,Burjassot-Paterna,Bioquímica y Ciencias Biomédicas,2023,1.0000,13.0000,13.0000,,13.0000,13.0000,0.0000
+UV,Burjassot-Paterna,Bioquímica y Ciencias Biomédicas,2024,1.0000,13.0500,13.0500,,13.0500,13.0500,0.0000
+UV,Burjassot-Paterna,Bioquímica y Ciencias Biomédicas,2025,1.0000,13.0200,13.0200,,13.0200,13.0200,0.0000
+UV,Burjassot-Paterna,Bioquímica y Ciencias Biomédicas,2026,1.0000,13.1000,13.1000,,13.1000,13.1000,0.0000
+UV,Burjassot-Paterna,Biotecnología,2022,1.0000,12.9200,12.9200,,12.9200,12.9200,0.0000
+UV,Burjassot-Paterna,Biotecnología,2023,1.0000,12.8000,12.8000,,12.8000,12.8000,0.0000
+UV,Burjassot-Paterna,Biotecnología,2024,1.0000,12.7500,12.7500,,12.7500,12.7500,0.0000
+UV,Burjassot-Paterna,Biotecnología,2025,1.0000,12.7000,12.7000,,12.7000,12.7000,0.0000
+UV,Burjassot-Paterna,Biotecnología,2026,1.0000,12.8200,12.8200,,12.8200,12.8200,0.0000
+UV,Burjassot-Paterna,Ciencia de Datos,2022,1.0000,12.1000,12.1000,,12.1000,12.1000,0.0000
+UV,Burjassot-Paterna,Ciencia de Datos,2023,1.0000,12.0500,12.0500,,12.0500,12.0500,0.0000
+UV,Burjassot-Paterna,Ciencia de Datos,2024,1.0000,11.9500,11.9500,,11.9500,11.9500,0.0000
+UV,Burjassot-Paterna,Ciencia de Datos,2025,1.0000,12.0000,12.0000,,12.0000,12.0000,0.0000
+UV,Burjassot-Paterna,Ciencia de Datos,2026,1.0000,12.0800,12.0800,,12.0800,12.0800,0.0000
+UV,Burjassot-Paterna,Ciencia y Tecnología de los Alimentos,2022,1.0000,10.3000,10.3000,,10.3000,10.3000,0.0000
+UV,Burjassot-Paterna,Ciencia y Tecnología de los Alimentos,2023,1.0000,10.1000,10.1000,,10.1000,10.1000,0.0000
+UV,Burjassot-Paterna,Ciencia y Tecnología de los Alimentos,2024,1.0000,10.2000,10.2000,,10.2000,10.2000,0.0000
+UV,Burjassot-Paterna,Ciencia y Tecnología de los Alimentos,2025,1.0000,10.1500,10.1500,,10.1500,10.1500,0.0000
+UV,Burjassot-Paterna,Ciencia y Tecnología de los Alimentos,2026,1.0000,10.2500,10.2500,,10.2500,10.2500,0.0000
+UV,Burjassot-Paterna,Doble Grado Farmacia + Nutrición Humana y Dietética,2022,1.0000,13.0500,13.0500,,13.0500,13.0500,0.0000
+UV,Burjassot-Paterna,Doble Grado Farmacia + Nutrición Humana y Dietética,2023,1.0000,12.9000,12.9000,,12.9000,12.9000,0.0000
+UV,Burjassot-Paterna,Doble Grado Farmacia + Nutrición Humana y Dietética,2024,1.0000,13.0000,13.0000,,13.0000,13.0000,0.0000
+UV,Burjassot-Paterna,Doble Grado Farmacia + Nutrición Humana y Dietética,2025,1.0000,12.9800,12.9800,,12.9800,12.9800,0.0000
+UV,Burjassot-Paterna,Doble Grado Farmacia + Nutrición Humana y Dietética,2026,1.0000,13.0500,13.0500,,13.0500,13.0500,0.0000
+UV,Burjassot-Paterna,Doble Grado Física + Matemáticas,2022,1.0000,13.7200,13.7200,,13.7200,13.7200,0.0000
+UV,Burjassot-Paterna,Doble Grado Física + Matemáticas,2023,1.0000,13.6500,13.6500,,13.6500,13.6500,0.0000
+UV,Burjassot-Paterna,Doble Grado Física + Matemáticas,2024,1.0000,13.6000,13.6000,,13.6000,13.6000,0.0000
+UV,Burjassot-Paterna,Doble Grado Física + Matemáticas,2025,1.0000,13.6200,13.6200,,13.6200,13.6200,0.0000
+UV,Burjassot-Paterna,Doble Grado Física + Matemáticas,2026,1.0000,13.6500,13.6500,,13.6500,13.6500,0.0000
+UV,Burjassot-Paterna,Farmacia,2022,1.0000,11.5500,11.5500,,11.5500,11.5500,0.0000
+UV,Burjassot-Paterna,Farmacia,2023,1.0000,11.3500,11.3500,,11.3500,11.3500,0.0000
+UV,Burjassot-Paterna,Farmacia,2024,1.0000,11.4500,11.4500,,11.4500,11.4500,0.0000
+UV,Burjassot-Paterna,Farmacia,2025,1.0000,11.4000,11.4000,,11.4000,11.4000,0.0000
+UV,Burjassot-Paterna,Farmacia,2026,1.0000,11.5200,11.5200,,11.5200,11.5200,0.0000
+UV,Burjassot-Paterna,Física,2022,1.0000,12.7000,12.7000,,12.7000,12.7000,0.0000
+UV,Burjassot-Paterna,Física,2023,1.0000,12.5500,12.5500,,12.5500,12.5500,0.0000
+UV,Burjassot-Paterna,Física,2024,1.0000,12.6200,12.6200,,12.6200,12.6200,0.0000
+UV,Burjassot-Paterna,Física,2025,1.0000,12.6000,12.6000,,12.6000,12.6000,0.0000
+UV,Burjassot-Paterna,Física,2026,1.0000,12.6800,12.6800,,12.6800,12.6800,0.0000
+UV,Burjassot-Paterna,Ingeniería Informática,2022,1.0000,11.2000,11.2000,,11.2000,11.2000,0.0000
+UV,Burjassot-Paterna,Ingeniería Informática,2023,1.0000,11.1000,11.1000,,11.1000,11.1000,0.0000
+UV,Burjassot-Paterna,Ingeniería Informática,2024,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UV,Burjassot-Paterna,Ingeniería Informática,2025,1.0000,11.2000,11.2000,,11.2000,11.2000,0.0000
+UV,Burjassot-Paterna,Ingeniería Informática,2026,1.0000,11.3500,11.3500,,11.3500,11.3500,0.0000
+UV,Burjassot-Paterna,Ingeniería Multimedia,2022,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UV,Burjassot-Paterna,Ingeniería Multimedia,2023,1.0000,10.2500,10.2500,,10.2500,10.2500,0.0000
+UV,Burjassot-Paterna,Ingeniería Multimedia,2024,1.0000,10.4000,10.4000,,10.4000,10.4000,0.0000
+UV,Burjassot-Paterna,Ingeniería Multimedia,2025,1.0000,10.3500,10.3500,,10.3500,10.3500,0.0000
+UV,Burjassot-Paterna,Ingeniería Multimedia,2026,1.0000,10.4800,10.4800,,10.4800,10.4800,0.0000
+UV,Burjassot-Paterna,Ingeniería Telemática,2022,1.0000,9.3000,9.3000,,9.3000,9.3000,0.0000
+UV,Burjassot-Paterna,Ingeniería Telemática,2023,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UV,Burjassot-Paterna,Ingeniería Telemática,2024,1.0000,9.4000,9.4000,,9.4000,9.4000,0.0000
+UV,Burjassot-Paterna,Ingeniería Telemática,2025,1.0000,9.3500,9.3500,,9.3500,9.3500,0.0000
+UV,Burjassot-Paterna,Ingeniería Telemática,2026,1.0000,9.5000,9.5000,,9.5000,9.5000,0.0000
+UV,Burjassot-Paterna,Matemáticas,2022,1.0000,12.6500,12.6500,,12.6500,12.6500,0.0000
+UV,Burjassot-Paterna,Matemáticas,2023,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UV,Burjassot-Paterna,Matemáticas,2024,1.0000,12.5800,12.5800,,12.5800,12.5800,0.0000
+UV,Burjassot-Paterna,Matemáticas,2025,1.0000,12.5500,12.5500,,12.5500,12.5500,0.0000
+UV,Burjassot-Paterna,Matemáticas,2026,1.0000,12.6200,12.6200,,12.6200,12.6200,0.0000
+UV,Burjassot-Paterna,Nutrición Humana y Dietética,2022,1.0000,11.6500,11.6500,,11.6500,11.6500,0.0000
+UV,Burjassot-Paterna,Nutrición Humana y Dietética,2023,1.0000,11.4500,11.4500,,11.4500,11.4500,0.0000
+UV,Burjassot-Paterna,Nutrición Humana y Dietética,2024,1.0000,11.5500,11.5500,,11.5500,11.5500,0.0000
+UV,Burjassot-Paterna,Nutrición Humana y Dietética,2025,1.0000,11.5000,11.5000,,11.5000,11.5000,0.0000
+UV,Burjassot-Paterna,Nutrición Humana y Dietética,2026,1.0000,11.6000,11.6000,,11.6000,11.6000,0.0000
+UV,Burjassot-Paterna,Química,2022,1.0000,11.3000,11.3000,,11.3000,11.3000,0.0000
+UV,Burjassot-Paterna,Química,2023,1.0000,11.0500,11.0500,,11.0500,11.0500,0.0000
+UV,Burjassot-Paterna,Química,2024,1.0000,11.1500,11.1500,,11.1500,11.1500,0.0000
+UV,Burjassot-Paterna,Química,2025,1.0000,11.1000,11.1000,,11.1000,11.1000,0.0000
+UV,Burjassot-Paterna,Química,2026,1.0000,11.2200,11.2200,,11.2200,11.2200,0.0000
+UV,Burjassot-Paterna,Óptica y Optometría,2022,1.0000,10.2000,10.2000,,10.2000,10.2000,0.0000
+UV,Burjassot-Paterna,Óptica y Optometría,2023,1.0000,10.0000,10.0000,,10.0000,10.0000,0.0000
+UV,Burjassot-Paterna,Óptica y Optometría,2024,1.0000,10.1000,10.1000,,10.1000,10.1000,0.0000
+UV,Burjassot-Paterna,Óptica y Optometría,2025,1.0000,10.0500,10.0500,,10.0500,10.0500,0.0000
+UV,Burjassot-Paterna,Óptica y Optometría,2026,1.0000,10.1800,10.1800,,10.1800,10.1800,0.0000
+UV,Ontinyent,Administración y Dirección de Empresas (ADE),2022,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UV,Ontinyent,Administración y Dirección de Empresas (ADE),2023,1.0000,8.8500,8.8500,,8.8500,8.8500,0.0000
+UV,Ontinyent,Administración y Dirección de Empresas (ADE),2024,1.0000,9.0500,9.0500,,9.0500,9.0500,0.0000
+UV,Ontinyent,Administración y Dirección de Empresas (ADE),2025,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UV,Ontinyent,Administración y Dirección de Empresas (ADE),2026,1.0000,9.1500,9.1500,,9.1500,9.1500,0.0000
+UV,Ontinyent,Ciencias de la Actividad Física y del Deporte,2022,1.0000,10.7500,10.7500,,10.7500,10.7500,0.0000
+UV,Ontinyent,Ciencias de la Actividad Física y del Deporte,2023,1.0000,10.5500,10.5500,,10.5500,10.5500,0.0000
+UV,Ontinyent,Ciencias de la Actividad Física y del Deporte,2024,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UV,Ontinyent,Ciencias de la Actividad Física y del Deporte,2025,1.0000,10.6000,10.6000,,10.6000,10.6000,0.0000
+UV,Ontinyent,Ciencias de la Actividad Física y del Deporte,2026,1.0000,10.7000,10.7000,,10.7000,10.7000,0.0000
+UV,Ontinyent,Enfermería,2022,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UV,Ontinyent,Enfermería,2023,1.0000,12.3500,12.3500,,12.3500,12.3500,0.0000
+UV,Ontinyent,Enfermería,2024,1.0000,12.4500,12.4500,,12.4500,12.4500,0.0000
+UV,Ontinyent,Enfermería,2025,1.0000,12.4200,12.4200,,12.4200,12.4200,0.0000
+UV,Ontinyent,Enfermería,2026,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UV,Ontinyent,Magisterio en Educación Infantil,2022,1.0000,8.7000,8.7000,,8.7000,8.7000,0.0000
+UV,Ontinyent,Magisterio en Educación Infantil,2023,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UV,Ontinyent,Magisterio en Educación Infantil,2024,1.0000,8.8000,8.8000,,8.8000,8.8000,0.0000
+UV,Ontinyent,Magisterio en Educación Infantil,2025,1.0000,8.7500,8.7500,,8.7500,8.7500,0.0000
+UV,Ontinyent,Magisterio en Educación Infantil,2026,1.0000,8.9000,8.9000,,8.9000,8.9000,0.0000
+UV,Tarongers,Administración y Dirección de Empresas (ADE),2022,1.0000,10.1000,10.1000,,10.1000,10.1000,0.0000
+UV,Tarongers,Administración y Dirección de Empresas (ADE),2023,1.0000,9.9500,9.9500,,9.9500,9.9500,0.0000
+UV,Tarongers,Administración y Dirección de Empresas (ADE),2024,1.0000,10.1500,10.1500,,10.1500,10.1500,0.0000
+UV,Tarongers,Administración y Dirección de Empresas (ADE),2025,1.0000,10.1000,10.1000,,10.1000,10.1000,0.0000
+UV,Tarongers,Administración y Dirección de Empresas (ADE),2026,1.0000,10.2500,10.2500,,10.2500,10.2500,0.0000
+UV,Tarongers,Ciencias Políticas y de la Administración Pública,2022,1.0000,9.1000,9.1000,,9.1000,9.1000,0.0000
+UV,Tarongers,Ciencias Políticas y de la Administración Pública,2023,1.0000,9.0000,9.0000,,9.0000,9.0000,0.0000
+UV,Tarongers,Ciencias Políticas y de la Administración Pública,2024,1.0000,9.2000,9.2000,,9.2000,9.2000,0.0000
+UV,Tarongers,Ciencias Políticas y de la Administración Pública,2025,1.0000,9.1500,9.1500,,9.1500,9.1500,0.0000
+UV,Tarongers,Ciencias Políticas y de la Administración Pública,2026,1.0000,9.3000,9.3000,,9.3000,9.3000,0.0000
+UV,Tarongers,Criminología,2022,1.0000,10.5500,10.5500,,10.5500,10.5500,0.0000
+UV,Tarongers,Criminología,2023,1.0000,10.3500,10.3500,,10.3500,10.3500,0.0000
+UV,Tarongers,Criminología,2024,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UV,Tarongers,Criminología,2025,1.0000,10.4000,10.4000,,10.4000,10.4000,0.0000
+UV,Tarongers,Criminología,2026,1.0000,10.5200,10.5200,,10.5200,10.5200,0.0000
+UV,Tarongers,Derecho,2022,1.0000,10.6500,10.6500,,10.6500,10.6500,0.0000
+UV,Tarongers,Derecho,2023,1.0000,10.4500,10.4500,,10.4500,10.4500,0.0000
+UV,Tarongers,Derecho,2024,1.0000,10.6000,10.6000,,10.6000,10.6000,0.0000
+UV,Tarongers,Derecho,2025,1.0000,10.5500,10.5500,,10.5500,10.5500,0.0000
+UV,Tarongers,Derecho,2026,1.0000,10.6800,10.6800,,10.6800,10.6800,0.0000
+UV,Tarongers,Doble Grado Derecho + ADE,2022,1.0000,11.4500,11.4500,,11.4500,11.4500,0.0000
+UV,Tarongers,Doble Grado Derecho + ADE,2023,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UV,Tarongers,Doble Grado Derecho + ADE,2024,1.0000,11.4000,11.4000,,11.4000,11.4000,0.0000
+UV,Tarongers,Doble Grado Derecho + ADE,2025,1.0000,11.3500,11.3500,,11.3500,11.3500,0.0000
+UV,Tarongers,Doble Grado Derecho + ADE,2026,1.0000,11.4500,11.4500,,11.4500,11.4500,0.0000
+UV,Tarongers,Doble Grado Derecho + Ciencias Políticas,2022,1.0000,12.2000,12.2000,,12.2000,12.2000,0.0000
+UV,Tarongers,Doble Grado Derecho + Ciencias Políticas,2023,1.0000,12.0500,12.0500,,12.0500,12.0500,0.0000
+UV,Tarongers,Doble Grado Derecho + Ciencias Políticas,2024,1.0000,12.1500,12.1500,,12.1500,12.1500,0.0000
+UV,Tarongers,Doble Grado Derecho + Ciencias Políticas,2025,1.0000,12.1000,12.1000,,12.1000,12.1000,0.0000
+UV,Tarongers,Doble Grado Derecho + Ciencias Políticas,2026,1.0000,12.2000,12.2000,,12.2000,12.2000,0.0000
+UV,Tarongers,Doble Grado Derecho + Criminología,2022,1.0000,12.5500,12.5500,,12.5500,12.5500,0.0000
+UV,Tarongers,Doble Grado Derecho + Criminología,2023,1.0000,12.4000,12.4000,,12.4000,12.4000,0.0000
+UV,Tarongers,Doble Grado Derecho + Criminología,2024,1.0000,12.5000,12.5000,,12.5000,12.5000,0.0000
+UV,Tarongers,Doble Grado Derecho + Criminología,2025,1.0000,12.4800,12.4800,,12.4800,12.4800,0.0000
+UV,Tarongers,Doble Grado Derecho + Criminología,2026,1.0000,12.5500,12.5500,,12.5500,12.5500,0.0000
+UV,Tarongers,Doble Grado Derecho + Economía,2022,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UV,Tarongers,Doble Grado Derecho + Economía,2023,1.0000,11.0500,11.0500,,11.0500,11.0500,0.0000
+UV,Tarongers,Doble Grado Derecho + Economía,2024,1.0000,11.2000,11.2000,,11.2000,11.2000,0.0000
+UV,Tarongers,Doble Grado Derecho + Economía,2025,1.0000,11.1500,11.1500,,11.1500,11.1500,0.0000
+UV,Tarongers,Doble Grado Derecho + Economía,2026,1.0000,11.2500,11.2500,,11.2500,11.2500,0.0000
+UV,Tarongers,Doble Grado Sociología + Ciencias Políticas,2022,1.0000,11.9000,11.9000,,11.9000,11.9000,0.0000
+UV,Tarongers,Doble Grado Sociología + Ciencias Políticas,2023,1.0000,11.7500,11.7500,,11.7500,11.7500,0.0000
+UV,Tarongers,Doble Grado Sociología + Ciencias Políticas,2024,1.0000,11.8500,11.8500,,11.8500,11.8500,0.0000
+UV,Tarongers,Doble Grado Sociología + Ciencias Políticas,2025,1.0000,11.8000,11.8000,,11.8000,11.8000,0.0000
+UV,Tarongers,Doble Grado Sociología + Ciencias Políticas,2026,1.0000,11.9000,11.9000,,11.9000,11.9000,0.0000
+UV,Tarongers,Economía,2022,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UV,Tarongers,Economía,2023,1.0000,9.6000,9.6000,,9.6000,9.6000,0.0000
+UV,Tarongers,Economía,2024,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UV,Tarongers,Economía,2025,1.0000,9.7500,9.7500,,9.7500,9.7500,0.0000
+UV,Tarongers,Economía,2026,1.0000,9.9000,9.9000,,9.9000,9.9000,0.0000
+UV,Tarongers,Finanzas y Contabilidad,2022,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UV,Tarongers,Finanzas y Contabilidad,2023,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UV,Tarongers,Finanzas y Contabilidad,2024,1.0000,9.9000,9.9000,,9.9000,9.9000,0.0000
+UV,Tarongers,Finanzas y Contabilidad,2025,1.0000,9.8500,9.8500,,9.8500,9.8500,0.0000
+UV,Tarongers,Finanzas y Contabilidad,2026,1.0000,10.0000,10.0000,,10.0000,10.0000,0.0000
+UV,Tarongers,International Business,2022,1.0000,12.4500,12.4500,,12.4500,12.4500,0.0000
+UV,Tarongers,International Business,2023,1.0000,12.2500,12.2500,,12.2500,12.2500,0.0000
+UV,Tarongers,International Business,2024,1.0000,12.3500,12.3500,,12.3500,12.3500,0.0000
+UV,Tarongers,International Business,2025,1.0000,12.3000,12.3000,,12.3000,12.3000,0.0000
+UV,Tarongers,International Business,2026,1.0000,12.4000,12.4000,,12.4000,12.4000,0.0000
+UV,Tarongers,Magisterio en Educación Infantil,2022,1.0000,9.4000,9.4000,,9.4000,9.4000,0.0000
+UV,Tarongers,Magisterio en Educación Infantil,2023,1.0000,9.3000,9.3000,,9.3000,9.3000,0.0000
+UV,Tarongers,Magisterio en Educación Infantil,2024,1.0000,9.5000,9.5000,,9.5000,9.5000,0.0000
+UV,Tarongers,Magisterio en Educación Infantil,2025,1.0000,9.4500,9.4500,,9.4500,9.4500,0.0000
+UV,Tarongers,Magisterio en Educación Infantil,2026,1.0000,9.6000,9.6000,,9.6000,9.6000,0.0000
+UV,Tarongers,Magisterio en Educación Primaria,2022,1.0000,9.6000,9.6000,,9.6000,9.6000,0.0000
+UV,Tarongers,Magisterio en Educación Primaria,2023,1.0000,9.5000,9.5000,,9.5000,9.5000,0.0000
+UV,Tarongers,Magisterio en Educación Primaria,2024,1.0000,9.7000,9.7000,,9.7000,9.7000,0.0000
+UV,Tarongers,Magisterio en Educación Primaria,2025,1.0000,9.6500,9.6500,,9.6500,9.6500,0.0000
+UV,Tarongers,Magisterio en Educación Primaria,2026,1.0000,9.8000,9.8000,,9.8000,9.8000,0.0000
+UV,Tarongers,Relaciones Laborales y Recursos Humanos,2022,1.0000,6.8000,6.8000,,6.8000,6.8000,0.0000
+UV,Tarongers,Relaciones Laborales y Recursos Humanos,2023,1.0000,6.7000,6.7000,,6.7000,6.7000,0.0000
+UV,Tarongers,Relaciones Laborales y Recursos Humanos,2024,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UV,Tarongers,Relaciones Laborales y Recursos Humanos,2025,1.0000,6.8500,6.8500,,6.8500,6.8500,0.0000
+UV,Tarongers,Relaciones Laborales y Recursos Humanos,2026,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UV,Tarongers,Sociología,2022,1.0000,6.9000,6.9000,,6.9000,6.9000,0.0000
+UV,Tarongers,Sociología,2023,1.0000,6.8000,6.8000,,6.8000,6.8000,0.0000
+UV,Tarongers,Sociología,2024,1.0000,7.0000,7.0000,,7.0000,7.0000,0.0000
+UV,Tarongers,Sociología,2025,1.0000,6.9500,6.9500,,6.9500,6.9500,0.0000
+UV,Tarongers,Sociología,2026,1.0000,7.1000,7.1000,,7.1000,7.1000,0.0000
+UV,Tarongers,Trabajo Social,2022,1.0000,8.6000,8.6000,,8.6000,8.6000,0.0000
+UV,Tarongers,Trabajo Social,2023,1.0000,8.5000,8.5000,,8.5000,8.5000,0.0000
+UV,Tarongers,Trabajo Social,2024,1.0000,8.7000,8.7000,,8.7000,8.7000,0.0000
+UV,Tarongers,Trabajo Social,2025,1.0000,8.6500,8.6500,,8.6500,8.6500,0.0000
+UV,Tarongers,Trabajo Social,2026,1.0000,8.8000,8.8000,,8.8000,8.8000,0.0000
+UV,Tarongers,Turismo,2022,1.0000,6.6000,6.6000,,6.6000,6.6000,0.0000
+UV,Tarongers,Turismo,2023,1.0000,6.5000,6.5000,,6.5000,6.5000,0.0000
+UV,Tarongers,Turismo,2024,1.0000,6.7000,6.7000,,6.7000,6.7000,0.0000
+UV,Tarongers,Turismo,2025,1.0000,6.6500,6.6500,,6.6500,6.6500,0.0000
+UV,Tarongers,Turismo,2026,1.0000,6.8000,6.8000,,6.8000,6.8000,0.0000
