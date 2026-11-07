@@ -1,0 +1,14 @@
+{
+  "original_registros": 109,
+  "denominaciones_unicas": 91,
+  "notas_contrastadas_registros": 40,
+  "notas_pendientes": 69,
+  "valores_nota_contrastados": 199,
+  "valores_nota_cambiados": 199,
+  "salarios_niveles_ambito_2021_2024": 40,
+  "salarios_campos_2024": 111,
+  "mapeo_coincidencias": 24,
+  "mapeo_sinonimos": 47,
+  "mapeo_revision_manual": 13,
+  "mapeo_doble": 21
+}

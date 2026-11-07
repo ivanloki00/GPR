@@ -1,0 +1,110 @@
+﻿Universidad;Grado_original;Campus;Campo_U_Ranking_candidato;Estado_mapeo;Justificacion;Anos_nota_contrastados;Notas_validadas
+UPV;Administración y Dirección de Empresas (ADE);Alcoy;Administración y empresa;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Administración y Dirección de Empresas (ADE);Vera;Administración y empresa;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Administración y Dirección de Empresas (ADE);Ontinyent;Administración y empresa;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Administración y Dirección de Empresas (ADE);Tarongers;Administración y empresa;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Arquitectura Técnica;Vera;Arquitectura técnica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Bellas Artes;Vera;Diseño;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Biología;Burjassot-Paterna;Biología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Bioquímica y Ciencias Biomédicas;Burjassot-Paterna;Bioquímica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Biotecnología;Vera;Biotecnología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Biotecnología;Burjassot-Paterna;Biotecnología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UPV;Ciencia de Datos;Vera;;PENDIENTE_HOMOLOGACION;No se ha encontrado correspondencia suficientemente clara, NO inventar.;5;CONTRASTADO_SECUNDARIA
+UV;Ciencia de Datos;Burjassot-Paterna;;PENDIENTE_HOMOLOGACION;No se ha encontrado correspondencia suficientemente clara, NO inventar.;5;CONTRASTADO_SECUNDARIA
+UV;Ciencia y Tecnología de los Alimentos;Burjassot-Paterna;Ciencia y tecnología de los alimentos;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ciencias Ambientales;Gandia;Ciencias ambientales;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Ciencias Políticas y de la Administración Pública;Tarongers;Política y gestión pública;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Ciencias de la Actividad Física y del Deporte;Blasco Ibáñez;Actividad física y del deporte;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Ciencias de la Actividad Física y del Deporte;Ontinyent;Actividad física y del deporte;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Comunicación Audiovisual;Gandia;Audiovisual, imagen y multimedia;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Comunicación Audiovisual;Blasco Ibáñez;Audiovisual, imagen y multimedia;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Conservación y Restauración de Bienes Culturales;Vera;Conservación y restauración;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Criminología;Tarongers;Criminología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Derecho;Tarongers;Derecho;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UPV;Diseño y Tecnologías Creativas;Vera;Diseño;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado ADE + Ciencia y Tecnología de los Alimentos;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado ADE + Ingeniería Informática;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado ADE + Telecomunicación;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado ADE + Turismo;Alcoy;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado ADE + Turismo;Gandia;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Biotecnología + Ing. Agroalimentaria;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Ciencia de Datos + Organización Industrial;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Derecho + ADE;Tarongers;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Derecho + Ciencias Políticas;Tarongers;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Derecho + Criminología;Tarongers;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Derecho + Economía;Tarongers;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Farmacia + Nutrición Humana y Dietética;Burjassot-Paterna;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Física + Matemáticas;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Física + Matemáticas;Burjassot-Paterna;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Ing. Agroalimentaria + Tecnología de Alimentos;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Ing. Forestal + Ciencias Ambientales;Gandia;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Ingeniería Informática + Matemáticas;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Matemáticas e Informática;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Doble Grado Sociología + Ciencias Políticas;Tarongers;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Telecomunicación + Com. Audiovisual;Gandia;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Doble Grado Telecomunicación + Matemáticas;Vera;;DOBLE_GRADO_SIN_EQUIVALENTE;No asignar sueldo de uno de los componentes al doble grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Economía;Tarongers;Economía;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Educación Social;Blasco Ibáñez;Educación social;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Enfermería;Blasco Ibáñez;Enfermería;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Enfermería;Ontinyent;Enfermería;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Estudios Ingleses;Blasco Ibáñez;Lengua inglesa;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Farmacia;Burjassot-Paterna;Farmacia;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Filología Catalana;Blasco Ibáñez;;PENDIENTE_HOMOLOGACION;No se ha encontrado correspondencia suficientemente clara, NO inventar.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Filología Hispánica;Blasco Ibáñez;Lenguas y dialectos españoles;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Filosofía;Blasco Ibáñez;Filosofía;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Finanzas y Contabilidad;Tarongers;Finanzas y contabilidad;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Fisioterapia;Blasco Ibáñez;Fisioterapia;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UPV;Fundamentos de la Arquitectura;Vera;Arquitectura;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Física;Burjassot-Paterna;Física;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Geografía y Medio Ambiente;Blasco Ibáñez;Geografía;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Historia;Blasco Ibáñez;Historia;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Historia del Arte;Blasco Ibáñez;Historia;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Aeroespacial;Vera;Ingeniería aeronáutica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Agroalimentaria y del Medio Rural;Vera;Ingeniería agrícola, agropecuaria y medio rural;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Biomédica;Vera;Ingeniería biomédica y de la salud;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Civil;Vera;Ingeniería civil;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Electrónica Industrial y Automática;Vera;Ingeniería electrónica industrial y automática;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Eléctrica;Alcoy;Ingeniería eléctrica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Eléctrica;Vera;Ingeniería eléctrica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Forestal y del Medio Natural;Gandia;Ingeniería forestal y montes;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Física;Vera;Física;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Informática;Alcoy;Informática;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Informática;Vera;Informática;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Ingeniería Informática;Burjassot-Paterna;Informática;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Mecánica;Alcoy;Ingeniería mecánica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Mecánica;Vera;Ingeniería mecánica;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Ingeniería Multimedia;Burjassot-Paterna;Ingeniería multimedia;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería Química;Alcoy;Ingeniería química industrial;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería Química;Vera;Ingeniería química industrial;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Ingeniería Telemática;Burjassot-Paterna;Ingeniería de telecomunicación;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UPV;Ingeniería de Obras Públicas;Vera;Ingeniería civil;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería de Organización Industrial;Vera;Ingeniería de organización industrial;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería de Sistemas de Telecomunicación Sonido e Imagen;Gandia;Ingeniería de sonido e imagen;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería de Tecnologías y Servicios de Telecomunicación;Vera;Ingeniería de telecomunicación;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería en Diseño Industrial y Desarrollo de Productos;Alcoy;Ingeniería en diseño industrial y desarrollo del producto;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería en Diseño Industrial y Desarrollo de Productos;Vera;Ingeniería en diseño industrial y desarrollo del producto;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería en Geomática y Topografía;Vera;Ingeniería geomática, topografía y cartografía;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Ingeniería en Tecnologías Industriales;Vera;Ingeniería en tecnologías industriales;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;International Business;Tarongers;Comercio;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Lenguas Modernas y sus Literaturas;Blasco Ibáñez;Lenguas modernas y aplicadas;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Magisterio en Educación Infantil;Ontinyent;Educación infantil;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Magisterio en Educación Infantil;Tarongers;Educación infantil;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Magisterio en Educación Primaria;Tarongers;Educación primaria;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Matemáticas;Burjassot-Paterna;Matemáticas;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Medicina;Blasco Ibáñez;Medicina;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Nutrición Humana y Dietética;Burjassot-Paterna;Nutrición humana y dietética;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
+UV;Odontología;Blasco Ibáñez;Odontología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UPV;PARS Ingeniería Aeronáutica (Aeroespacial);Vera;Ingeniería aeronáutica;REVISION_MANUAL;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Pedagogía;Blasco Ibáñez;Pedagogía;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Periodismo;Blasco Ibáñez;Periodismo;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Podología;Blasco Ibáñez;Podología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Psicología;Blasco Ibáñez;Psicología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Química;Burjassot-Paterna;Química;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Relaciones Laborales y Recursos Humanos;Tarongers;Relaciones laborales y recursos humanos;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Sociología;Tarongers;Sociología;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;0;SIN_CONTRASTE_EXCLUIDO
+UPV;Tecnologías Interactivas;Gandia;;PENDIENTE_HOMOLOGACION;No se ha encontrado correspondencia suficientemente clara, NO inventar.;0;SIN_CONTRASTE_EXCLUIDO
+UV;Trabajo Social;Tarongers;Trabajo social;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UV;Traducción y Mediación Interlingüística (Inglés);Blasco Ibáñez;Traducción e interpretación;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";0;SIN_CONTRASTE_EXCLUIDO
+UPV;Turismo;Gandia;Turismo;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;4;CONTRASTADO_SECUNDARIA
+UV;Turismo;Tarongers;Turismo;COINCIDENCIA_NOMBRE;Revisar que el campo nacional agrupe efectivamente el grado.;5;CONTRASTADO_SECUNDARIA
+UV;Óptica y Optometría;Burjassot-Paterna;Óptica y optometría;SINONIMO_PROPUESTO;"Comparación por campo de estudio nacional; clasificación de título pendiente de validar.";5;CONTRASTADO_SECUNDARIA
