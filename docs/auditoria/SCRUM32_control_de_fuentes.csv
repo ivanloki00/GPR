@@ -1,0 +1,6 @@
+﻿fuente_id;nivel_desglose;anio_observacion;cohortes_egreso;n_registros;n_campos_distintos;sin_valor;valor_min_eur_anual;valor_max_eur_anual;territorio;tipo_medida
+SIIU_DatosUni_AMBITO;ambito_amplio;2021;2016-17;10;10;0;24455.96;38998.50;España;base_media_cotizacion_anual
+SIIU_DatosUni_AMBITO;ambito_amplio;2022;2017-18;10;10;0;25967.85;39775.88;España;base_media_cotizacion_anual
+SIIU_DatosUni_AMBITO;ambito_amplio;2023;2018-19;10;10;0;27458.01;41838.95;España;base_media_cotizacion_anual
+SIIU_DatosUni_AMBITO;ambito_amplio;2024;2019-20;10;10;0;29099.89;44153.38;España;base_media_cotizacion_anual
+URANKING2026_CAMPO;campo_detallado;2024;2019-2020;111;111;0;23906;44153;España;base_media_cotizacion_anual
