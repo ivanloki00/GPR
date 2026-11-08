@@ -1,0 +1,58 @@
+﻿campo_uranking_candidato;nota_media_2024;n_filas;grados;cotizacion_2024;cotizacion_atipica;residuo_estandarizado;distancia_cook;residuo_atipico;influyente;decision
+Actividad física y del deporte;10.850000000000001;2;Ciencias de la Actividad Física y del Deporte;27877.0;False;-1.02;0.011;False;False;MANTENER
+Administración y empresa;9.575;4;Administración y Dirección de Empresas (ADE);32427.0;False;0.35;0.001;False;False;MANTENER
+Arquitectura;9.8;1;Fundamentos de la Arquitectura;29933.0;False;-0.31;0.001;False;False;MANTENER
+Arquitectura técnica;6.4;1;Arquitectura Técnica;34341.0;False;1.47;0.083;False;True;"MANTENER y señalar: indicador nacional plausible; ver análisis de sensibilidad"
+Audiovisual, imagen y multimedia;9.3;2;Comunicación Audiovisual;26326.0;False;-1.12;0.012;False;False;MANTENER
+Biología;11.25;1;Biología;26620.0;False;-1.41;0.026;False;False;MANTENER
+Bioquímica;13.05;1;Bioquímica y Ciencias Biomédicas;27027.0;False;-1.68;0.091;False;True;"MANTENER y señalar: indicador nacional plausible; ver análisis de sensibilidad"
+Biotecnología;12.675;2;Biotecnología;29783.0;False;-0.9;0.022;False;False;MANTENER
+Ciencia y tecnología de los alimentos;10.2;1;Ciencia y Tecnología de los Alimentos;27165.0;False;-1.07;0.011;False;False;MANTENER
+Ciencias ambientales;8.1;1;Ciencias Ambientales;27029.0;False;-0.72;0.009;False;False;MANTENER
+Conservación y restauración;7.6;1;Conservación y Restauración de Bienes Culturales;24781.0;False;-1.2;0.03;False;False;MANTENER
+Criminología;10.45;1;Criminología;32859.0;False;0.3;0.001;False;False;MANTENER
+Derecho;10.6;1;Derecho;32744.0;False;0.24;0.001;False;False;MANTENER
+Economía;9.8;1;Economía;31610.0;False;0.11;0.0;False;False;MANTENER
+Educación infantil;9.15;2;Magisterio en Educación Infantil;28582.0;False;-0.52;0.003;False;False;MANTENER
+Educación primaria;9.7;1;Magisterio en Educación Primaria;32776.0;False;0.42;0.002;False;False;MANTENER
+Educación social;8.5;1;Educación Social;26991.0;False;-0.8;0.009;False;False;MANTENER
+Enfermería;12.565;2;Enfermería;36914.0;False;0.93;0.022;False;False;MANTENER
+Farmacia;11.45;1;Farmacia;34155.0;False;0.44;0.003;False;False;MANTENER
+Filosofía;7.3;1;Filosofía;29642.0;False;0.09;0.0;False;False;MANTENER
+Finanzas y contabilidad;9.9;1;Finanzas y Contabilidad;28057.0;False;-0.8;0.006;False;False;MANTENER
+Fisioterapia;12.2;1;Fisioterapia;26360.0;False;-1.67;0.059;False;False;MANTENER
+Física;12.62;1;Física;30968.0;False;-0.59;0.009;False;False;MANTENER
+Historia;7.8;1;Historia;28611.0;False;-0.27;0.001;False;False;MANTENER
+Informática;10.913333333333334;3;Ingeniería Informática;37723.0;False;1.43;0.023;False;False;MANTENER
+Ingeniería aeronáutica;13.17;1;Ingeniería Aeroespacial;38034.0;False;1.1;0.041;False;False;MANTENER
+Ingeniería biomédica y de la salud;12.95;1;Ingeniería Biomédica;37163.0;False;0.92;0.026;False;False;MANTENER
+Ingeniería civil;9.2;1;Ingeniería Civil;35667.0;False;1.23;0.015;False;False;MANTENER
+Ingeniería de organización industrial;11.2;1;Ingeniería de Organización Industrial;39188.0;False;1.74;0.038;False;False;MANTENER
+Ingeniería de sonido e imagen;8.5;1;Ingeniería de Sistemas de Telecomunicación Sonido e Imagen;35824.0;False;1.41;0.027;False;False;MANTENER
+Ingeniería electrónica industrial y automática;10.55;1;Ingeniería Electrónica Industrial y Automática;36010.0;False;1.07;0.011;False;False;MANTENER
+Ingeniería eléctrica;8.34;2;Ingeniería Eléctrica;35972.0;False;1.48;0.032;False;False;MANTENER
+Ingeniería en diseño industrial y desarrollo del producto;10.274999999999999;2;Ingeniería en Diseño Industrial y Desarrollo de Productos;30844.0;False;-0.17;0.0;False;False;MANTENER
+Ingeniería en tecnologías industriales;12.07;1;Ingeniería en Tecnologías Industriales;36744.0;False;0.97;0.019;False;False;MANTENER
+Ingeniería forestal y montes;6.5;1;Ingeniería Forestal y del Medio Natural;30712.0;False;0.52;0.01;False;False;MANTENER
+Ingeniería geomática, topografía y cartografía;5.8;1;Ingeniería en Geomática y Topografía;33696.0;False;1.43;0.103;False;True;"MANTENER y señalar: indicador nacional plausible; ver análisis de sensibilidad"
+Ingeniería mecánica;9.44;2;Ingeniería Mecánica;35133.0;False;1.05;0.01;False;False;MANTENER
+Ingeniería multimedia;10.4;1;Ingeniería Multimedia;35216.0;False;0.9;0.008;False;False;MANTENER
+Lengua inglesa;8.1;1;Estudios Ingleses;30478.0;False;0.15;0.0;False;False;MANTENER
+Lenguas modernas y aplicadas;7.1;1;Lenguas Modernas y sus Literaturas;28405.0;False;-0.19;0.001;False;False;MANTENER
+Lenguas y dialectos españoles;7.2;1;Filología Hispánica;32746.0;False;0.89;0.021;False;False;MANTENER
+Matemáticas;12.58;1;Matemáticas;36140.0;False;0.73;0.014;False;False;MANTENER
+Medicina;13.38;1;Medicina;44153.0;False;2.63;0.261;True;True;"MANTENER y señalar: indicador nacional plausible; ver análisis de sensibilidad"
+Nutrición humana y dietética;11.55;1;Nutrición Humana y Dietética;27644.0;False;-1.22;0.022;False;False;MANTENER
+Odontología;13.1;1;Odontología;37150.0;False;0.89;0.026;False;False;MANTENER
+Pedagogía;8.6;1;Pedagogía;26477.0;False;-0.95;0.012;False;False;MANTENER
+Periodismo;9.1;1;Periodismo;26416.0;False;-1.06;0.012;False;False;MANTENER
+Podología;10.25;1;Podología;28062.0;False;-0.86;0.007;False;False;MANTENER
+Política y gestión pública;9.2;1;Ciencias Políticas y de la Administración Pública;30330.0;False;-0.1;0.0;False;False;MANTENER
+Psicología;11.65;1;Psicología;29100.0;False;-0.87;0.012;False;False;MANTENER
+Química;11.15;1;Química;28736.0;False;-0.86;0.009;False;False;MANTENER
+Relaciones laborales y recursos humanos;6.9;1;Relaciones Laborales y Recursos Humanos;27487.0;False;-0.38;0.004;False;False;MANTENER
+Sociología;7.0;1;Sociología;27237.0;False;-0.47;0.006;False;False;MANTENER
+Trabajo social;8.7;1;Trabajo Social;27134.0;False;-0.8;0.008;False;False;MANTENER
+Traducción e interpretación;12.1;1;Traducción y Mediación Interlingüística (Inglés);27665.0;False;-1.32;0.035;False;False;MANTENER
+Turismo;7.125;2;Turismo;26148.0;False;-0.76;0.016;False;False;MANTENER
+Óptica y optometría;10.1;1;Óptica y Optometría;28742.0;False;-0.66;0.004;False;False;MANTENER
