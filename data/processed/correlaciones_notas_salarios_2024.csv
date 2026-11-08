@@ -1,0 +1,3 @@
+﻿unidad_analisis;n_observaciones;n_salarios_unicos;pearson_r;pearson_p_valor;spearman_rho;spearman_p_valor;advertencia
+grado (nota media entre campus/universidades);40;5;0,406530491381177;0,00923871339047501;0,3255951329103767;0,04034624905252602;"Exploratorio: solo 5 salarios únicos; no implica causalidad."
+grado-campus (sensibilidad);44;5;0,4207703711694155;0,00445412452172184;0,34189018371534313;0,02311762682333251;"Exploratorio: solo 5 salarios únicos; no implica causalidad."
