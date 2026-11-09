@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GPR · Datos que orientan</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script defer src="/app.js"></script>
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><span class="brand-mark">G</span><span>GPR <small>research lab</small></span></div>
+    <nav>
+      <a class="active" href="#resumen"><span>⌂</span> Resumen</a>
+      <a href="#notas"><span>↗</span> Notas verificadas</a>
+      <a href="#salarios"><span>◒</span> Evolución salarial</a>
+      <a href="#campos"><span>✦</span> Comparar campos</a>
+      <a href="#exploracion"><span>⌁</span> Cruce exploratorio</a>
+      <a href="#metodo"><span>ⓘ</span> Método y fuentes</a>
+    </nav>
+    <div class="sidebar-note"><strong>Demo de aula</strong><br>Datos revisados · 2026<br><span class="dot"></span> Solo lectura</div>
+  </aside>
+
+  <main>
+    <header class="topbar"><div class="crumb">PROYECTO / <b>GPR</b></div><div class="status"><span class="dot"></span> Datos cargados localmente</div></header>
+    <section class="hero" id="resumen">
+      <div><p class="eyebrow">Notas de corte + empleabilidad</p><h1>Datos que orientan.<br><em>Decisiones con contexto.</em></h1><p class="intro">Consulta qué notas de acceso se han observado y cómo evolucionan los ingresos medios de cada ámbito de estudio.</p></div>
+      <div class="hero-meta"><span>Última actualización</span><strong>07 NOV 2026</strong><span>Fuentes auditadas</span><strong>SIIU · U-Ranking · UPV / UV</strong></div>
+    </section>
+
+    <section class="kpis">
+      <article class="kpi"><span>Fichas de notas</span><strong id="kpi-notes">—</strong><small>grados × campus × universidad</small></article>
+      <article class="kpi accent"><span>Fichas contrastadas</span><strong id="kpi-verified">—</strong><small>con fuente revisada</small></article>
+      <article class="kpi"><span>Referencias adicionales</span><strong id="kpi-reference">—</strong><small>medias no verificadas, etiquetadas</small></article>
+      <article class="kpi"><span>Datos salariales</span><strong id="kpi-salaries">—</strong><small>observaciones en el paquete</small></article>
+      <article class="kpi"><span>Campos detallados</span><strong id="kpi-fields">—</strong><small>U-Ranking 2024 · España</small></article>
+    </section>
+
+    <section class="section" id="notas">
+      <div class="section-heading"><div><p class="eyebrow">01 · acceso</p><h2>Notas verificadas</h2><p class="section-copy">Compara la evolución de las notas de corte disponibles en UPV y UV.</p></div><label class="select-label">Universidad <select id="university-filter"><option value="all">Todas</option></select></label></div>
+      <div class="grid-two">
+        <article class="card chart-card"><div class="card-title"><div><h3>Media por año</h3><p>Cómo cambia la nota media con el tiempo.</p></div><span class="legend"><i></i> Nota media</span></div><div id="notes-chart" class="chart"></div></article>
+        <article class="card ranking-card"><div class="card-title"><div><h3>Campus destacados</h3><p>Campus con las medias más altas.</p></div></div><div id="campus-ranking"></div></article>
+      </div>
+    </section>
+
+    <section class="section" id="salarios">
+      <div class="section-heading"><div><p class="eyebrow">02 · evolución</p><h2>La cotización crece de forma desigual</h2><p class="section-copy">Mira cómo cambia la base media anual cuatro años después de terminar los estudios.</p></div><label class="select-label">Ámbito <select id="salary-filter"></select></label></div>
+      <article class="card salary-card"><div id="salary-chart" class="chart salary-chart"></div><div class="chart-footnote">Es una referencia de ingresos medios: no equivale al sueldo neto ni al salario inicial.</div></article>
+    </section>
+
+    <section class="section" id="campos">
+      <div class="section-heading"><div><p class="eyebrow">03 · comparación exploratoria</p><h2>¿Qué campos destacan en 2024?</h2><p class="section-copy">Compara los ingresos medios de distintos campos de estudio en España.</p></div><label class="select-label">Ordenar <select id="field-sort"><option value="desc">Mayor cotización</option><option value="asc">Menor cotización</option></select></label></div>
+      <article class="card fields-card"><div id="fields-chart"></div><div class="method-note"><strong>Importante</strong><span>Son medias nacionales por campo, no salarios individuales. Esta comparación no demuestra que una nota cause un salario mayor.</span></div></article>
+    </section>
+    
+    <section class="section" id="exploracion">
+      <div class="section-heading"><div><p class="eyebrow">04 · diagnóstico</p><h2>Qué podemos afirmar con estos datos</h2><p class="section-copy">Revisa la calidad de los datos y explora la relación entre nota y cotización.</p></div></div>
+      <div class="grid-two">
+        <article class="card insight-card"><div class="card-title"><div><h3>Relación nota–cotización</h3><p>Indica si ambas variables se mueven juntas.</p></div><span class="badge warning">exploratorio</span></div><div id="correlation-results"></div><div class="chart-footnote">Es una asociación orientativa, no una relación de causa y efecto.</div></article>
+        <article class="card"><div class="card-title"><div><h3>Cobertura de notas</h3><p>Cuántas notas tenemos disponibles cada año.</p></div></div><div id="coverage-summary" class="coverage-summary"></div><div id="coverage-bars"></div></article>
+      </div>
+      <article class="card explorer-card"><div class="card-title"><div><h3>Explorar grados con equivalencia</h3><p>Busca un grado para ver su nota, rama y campo profesional.</p></div><label class="select-label">Buscar grado <input id="degree-filter" placeholder="Escribe para buscar..."></label></div><div id="degree-results" class="degree-results"></div><div id="degree-detail" class="degree-detail"></div></article>
+    </section>
+
+    <section class="section" id="metodo">
+      <div class="section-heading"><div><p class="eyebrow">05 · trazabilidad</p><h2>Fuentes y método</h2><p class="section-copy">Aquí explicamos de dónde salen los datos y qué significan.</p></div></div>
+      <div id="sources" class="source-grid"></div>
+      <article class="card methodology"><div><span class="badge verified">VERIFICADO</span><h3>Notas contrastadas</h3><p>Son notas revisadas con una fuente. Las notas de referencia aparecen marcadas aparte.</p></div><div><span class="badge neutral">INDICADOR</span><h3>Base de cotización</h3><p>Es una media anual de afiliados cuatro años después de graduarse. No es el sueldo neto.</p></div><div><span class="badge warning">PRECAUCIÓN</span><h3>Comparación por campo</h3><p>Relacionamos grados con campos parecidos, pero algunas equivalencias aún deben revisarse.</p></div></article>
+    </section>
+    <footer><span>GPR · Notas de corte y salarios en Valencia</span><span>Demo local para presentación</span></footer>
+  </main>
+</body>
+</html>

@@ -48,3 +48,21 @@ Los salarios y las notas de corte pueden pertenecer a cohortes y periodos distin
 ## Gestión del proyecto
 
 Tareas y planificación en Jira. Primer MVP: **10 de noviembre de 2026**.
+
+## Demo local
+
+La demo visual se puede arrancar sin instalar dependencias adicionales:
+
+```powershell
+python app.py
+```
+
+Después abre `http://127.0.0.1:8000`. La interfaz lee los CSV revisados de
+`data/processed/` en cada arranque y muestra las notas contrastadas, la serie
+2021–2024 de ámbitos amplios, una comparación exploratoria de campos 2024,
+la cobertura por campus/año, el mapeo de grados y las correlaciones descriptivas.
+La organización de las capas y sus precauciones está documentada en
+[`docs/demo_dashboard.md`](docs/demo_dashboard.md).
+El enriquecimiento de ramas y la lista de fuentes pendientes está documentado en
+[`docs/enriquecimiento_ramas_insercion_2024.md`](docs/enriquecimiento_ramas_insercion_2024.md).
+Para detenerla, pulsa `Ctrl+C`.
